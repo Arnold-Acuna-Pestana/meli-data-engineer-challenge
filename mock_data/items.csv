@@ -1,0 +1,1501 @@
+item_id,titulo,precio,status,category_id,seller_id
+1,Motorola Moto G24 Power,445,inactive,1,9527
+2,Xiaomi Redmi Note 13 Pro,682,inactive,1,8190
+3,HP 255 G10,498,active,2,1860
+4,iPhone 17 Pro Max,938,active,1,6550
+5,Lenovo Ideapad Slim 3,238,active,2,3853
+6,iPhone 16 Pro,201,active,1,7465
+7, Smartchef Pe-ce5002 Automática Expreso P1,267,active,3,3853
+8,Dolce Gusto Piccolo XS,550,active,3,3120
+9,Peabody Smartchef Pe-ct4207,728,active,3,9822
+10,Xiaomi Redmi Note 13 Pro,344,inactive,1,4480
+11,Samsung Galaxy A15,744,inactive,1,7553
+12,Xiaomi Redmi Note 13 Pro,489,inactive,1,9596
+13,iPhone 17 Pro Max,967,active,1,5569
+14,Xiaomi Redmi Note 13 Pro,701,inactive,1,6253
+15,Peabody Smartchef Pe-ct4207,593,active,3,9403
+16,iPhone 17 Pro Max,477,active,1,8048
+17,Lenovo Ideapad Slim 3,719,active,2,7318
+18,Motorola Moto G24 Power,908,active,1,3422
+19, Smartchef Pe-ce5002 Automática Expreso P1,121,inactive,3,4643
+20,iPhone 17 Pro Max,176,active,1,4539
+21,iPhone 17 Pro Max,936,active,1,1892
+22,Xiaomi Redmi Note 13 Pro,211,inactive,1,6889
+23, Smartchef Pe-ce5002 Automática Expreso P1,453,inactive,3,8687
+24,iPhone 16 Pro,182,inactive,1,5643
+25,Nespresso Essenza Mini D,818,active,3,698
+26, Smartchef Pe-ce5002 Automática Expreso P1,863,active,3,4129
+27, Smartchef Pe-ce5002 Automática Expreso P1,962,active,3,4838
+28,Lenovo Ideapad Slim 3,274,inactive,2,8823
+29,Dolce Gusto Piccolo XS,301,inactive,3,4799
+30,Nespresso Essenza Mini D,357,inactive,3,9171
+31,Lenovo Ideapad Slim 3,281,inactive,2,1844
+32,Lenovo Ideapad Slim 3,120,inactive,2,5643
+33,MacBook Pro 13,957,active,2,348
+34,HP 255 G10,231,inactive,2,1559
+35,Samsung Galaxy A15,860,inactive,1,3485
+36,Samsung Galaxy Np750 Book3,939,active,2,9112
+37,Dolce Gusto Genio S,370,inactive,3,6784
+38,Lenovo Ideapad Slim 3,632,inactive,2,7650
+39,iPhone 17 Pro Max,999,inactive,1,1555
+40,iPhone 16 Pro,845,active,1,8066
+41,Lenovo Ideapad Slim 3,830,active,2,8603
+42,Motorola Moto G24 Power,376,inactive,1,5818
+43,Lenovo Ideapad Slim 3,283,inactive,2,8879
+44,Lenovo Ideapad Slim 3,657,active,2,9403
+45,Lenovo Ideapad Slim 3,313,inactive,2,7282
+46,Peabody Smartchef Pe-ct4207,352,active,3,9293
+47, Smartchef Pe-ce5002 Automática Expreso P1,945,inactive,3,8269
+48,Lenovo Ideapad Slim 3,166,inactive,2,3813
+49,Dolce Gusto Piccolo XS,780,inactive,3,1557
+50,Lenovo Ideapad Slim 3,929,inactive,2,9777
+51,Nespresso Essenza Mini D,715,active,3,698
+52,Nespresso Essenza Mini D,773,active,3,5342
+53,Lenovo Ideapad Slim 3,731,inactive,2,3543
+54,iPhone 17 Pro Max,475,active,1,806
+55, Smartchef Pe-ce5002 Automática Expreso P1,797,active,3,9155
+56, Smartchef Pe-ce5002 Automática Expreso P1,268,inactive,3,1976
+57,Nespresso Essenza Mini D,649,inactive,3,6192
+58,Peabody Smartchef Pe-ct4207,107,active,3,9171
+59,Motorola Moto G24 Power,760,inactive,1,1019
+60,Peabody Smartchef Pe-ct4207,536,active,3,300
+61,Lenovo Ideapad Slim 3,311,inactive,2,9920
+62,Xiaomi Redmi Note 13 Pro,564,active,1,1646
+63,Motorola Moto G24 Power,338,active,1,6744
+64,Nespresso Essenza Mini D,849,inactive,3,3617
+65,Peabody Smartchef Pe-ct4207,145,active,3,4767
+66,Nespresso Essenza Mini D,971,active,3,271
+67,Lenovo Ideapad Slim 3,996,inactive,2,3138
+68,Dolce Gusto Genio S,755,active,3,1846
+69,Lenovo Ideapad Slim 3,538,inactive,2,698
+70,Xiaomi Redmi Note 13 Pro,486,active,1,160
+71,iPhone 16 Pro,258,active,1,3124
+72,Nespresso Essenza Mini D,330,inactive,3,6188
+73,Nespresso Essenza Mini D,513,active,3,4966
+74,Samsung Galaxy A15,253,inactive,1,6809
+75,Xiaomi Redmi Note 13 Pro,137,inactive,1,230
+76,Peabody Smartchef Pe-ct4207,822,inactive,3,2945
+77,HP 255 G10,133,inactive,2,4044
+78,Lenovo Ideapad Slim 3,908,active,2,5051
+79,iPhone 16 Pro,952,active,1,7694
+80,MacBook Pro 13,664,inactive,2,689
+81,Motorola Moto G24 Power,386,active,1,3087
+82,HP 255 G10,370,inactive,2,7147
+83,Samsung Galaxy Np750 Book3,307,active,2,6925
+84,Peabody Smartchef Pe-ct4207,873,active,3,7594
+85,Lenovo Ideapad Slim 3,627,active,2,6611
+86,Dolce Gusto Piccolo XS,998,active,3,6688
+87, Smartchef Pe-ce5002 Automática Expreso P1,548,active,3,2301
+88,HP 255 G10,918,active,2,481
+89,Lenovo Ideapad Slim 3,493,active,2,3105
+90,iPhone 17 Pro Max,169,inactive,1,1585
+91,Samsung Galaxy Np750 Book3,858,active,2,7784
+92,Motorola Moto G24 Power,601,active,1,2707
+93,iPhone 16 Pro,456,inactive,1,9155
+94, Smartchef Pe-ce5002 Automática Expreso P1,269,inactive,3,6514
+95,Lenovo Ideapad Slim 3,511,active,2,6149
+96,Samsung Galaxy A15,545,inactive,1,3511
+97,Nespresso Essenza Mini D,787,active,3,5129
+98,Peabody Smartchef Pe-ct4207,101,inactive,3,514
+99,HP 255 G10,338,active,2,348
+100, Smartchef Pe-ce5002 Automática Expreso P1,930,active,3,1069
+101,Lenovo Ideapad Slim 3,830,active,2,4267
+102,Samsung Galaxy Np750 Book3,578,active,2,4600
+103,Samsung Galaxy Np750 Book3,613,active,2,8939
+104,Dolce Gusto Genio S,243,active,3,6761
+105, Smartchef Pe-ce5002 Automática Expreso P1,468,active,3,6633
+106,Samsung Galaxy Np750 Book3,614,inactive,2,2007
+107,Samsung Galaxy Np750 Book3,721,active,2,1276
+108,HP 255 G10,517,active,2,8390
+109,Lenovo Ideapad Slim 3,631,inactive,2,2384
+110,iPhone 17 Pro Max,810,inactive,1,6648
+111,Xiaomi Redmi Note 13 Pro,186,active,1,1967
+112,Lenovo Ideapad Slim 3,628,inactive,2,8570
+113,iPhone 17 Pro Max,753,active,1,4758
+114,HP 255 G10,923,inactive,2,9573
+115,Xiaomi Redmi Note 13 Pro,383,inactive,1,4480
+116,Lenovo Ideapad Slim 3,940,inactive,2,5504
+117,Lenovo Ideapad Slim 3,102,inactive,2,3531
+118,Nespresso Essenza Mini D,627,inactive,3,2059
+119,Samsung Galaxy A15,320,active,1,5342
+120,HP 255 G10,405,active,2,2466
+121,Samsung Galaxy Np750 Book3,958,inactive,2,2466
+122,Dolce Gusto Piccolo XS,440,inactive,3,8386
+123,HP 255 G10,931,inactive,2,5278
+124,Samsung Galaxy A15,388,inactive,1,317
+125,iPhone 16 Pro,387,inactive,1,9293
+126,Samsung Galaxy A15,627,active,1,7784
+127,Xiaomi Redmi Note 13 Pro,672,inactive,1,4212
+128, Smartchef Pe-ce5002 Automática Expreso P1,758,inactive,3,1505
+129, Smartchef Pe-ce5002 Automática Expreso P1,541,inactive,3,5342
+130,Nespresso Essenza Mini D,757,active,3,3789
+131,iPhone 17 Pro Max,894,active,1,698
+132,Peabody Smartchef Pe-ct4207,429,active,3,9261
+133,Dolce Gusto Genio S,998,active,3,9991
+134,Samsung Galaxy Np750 Book3,601,inactive,2,8196
+135,Lenovo Ideapad Slim 3,203,inactive,2,7765
+136,Samsung Galaxy Np750 Book3,162,inactive,2,4564
+137,Lenovo Ideapad Slim 3,968,inactive,2,6149
+138,Lenovo Ideapad Slim 3,854,active,2,7489
+139,Dolce Gusto Piccolo XS,955,active,3,8270
+140,Motorola Moto G24 Power,597,inactive,1,7318
+141,Lenovo Ideapad Slim 3,404,inactive,2,9610
+142,Lenovo Ideapad Slim 3,531,active,2,7262
+143,Motorola Moto G24 Power,678,active,1,201
+144,iPhone 16 Pro,742,active,1,2416
+145,MacBook Pro 13,792,active,2,5036
+146, Smartchef Pe-ce5002 Automática Expreso P1,396,inactive,3,4303
+147,MacBook Pro 13,261,inactive,2,232
+148,iPhone 16 Pro,534,inactive,1,9403
+149,Peabody Smartchef Pe-ct4207,621,active,3,3089
+150,Samsung Galaxy A15,294,active,1,7465
+151, Smartchef Pe-ce5002 Automática Expreso P1,640,active,3,8703
+152,Lenovo Ideapad Slim 3,847,inactive,2,895
+153,Peabody Smartchef Pe-ct4207,821,active,3,8397
+154,Motorola Moto G24 Power,792,active,1,160
+155,Lenovo Ideapad Slim 3,778,active,2,1971
+156,MacBook Pro 13,755,inactive,2,7694
+157,HP 255 G10,411,inactive,2,5104
+158,Lenovo Ideapad Slim 3,426,inactive,2,5266
+159,Samsung Galaxy A15,718,active,1,2475
+160,Peabody Smartchef Pe-ct4207,828,inactive,3,4643
+161,MacBook Pro 13,710,inactive,2,1019
+162,MacBook Pro 13,195,inactive,2,8422
+163, Smartchef Pe-ce5002 Automática Expreso P1,195,inactive,3,689
+164,HP 255 G10,507,active,2,7375
+165,Peabody Smartchef Pe-ct4207,829,inactive,3,6541
+166,Samsung Galaxy A15,284,active,1,9554
+167,Samsung Galaxy A15,491,inactive,1,7207
+168,iPhone 16 Pro,666,active,1,3418
+169,Lenovo Ideapad Slim 3,194,active,2,9319
+170,Dolce Gusto Genio S,143,active,3,8048
+171,Samsung Galaxy Np750 Book3,324,inactive,2,9527
+172,iPhone 17 Pro Max,639,active,1,9527
+173,Nespresso Essenza Mini D,473,inactive,3,2416
+174,iPhone 16 Pro,679,inactive,1,2231
+175,HP 255 G10,313,active,2,5626
+176,Xiaomi Redmi Note 13 Pro,945,inactive,1,41
+177,Nespresso Essenza Mini D,442,inactive,3,895
+178,iPhone 17 Pro Max,977,inactive,1,3651
+179,iPhone 17 Pro Max,790,inactive,1,7489
+180,Xiaomi Redmi Note 13 Pro,584,active,1,5142
+181,MacBook Pro 13,417,inactive,2,5522
+182,Motorola Moto G24 Power,947,inactive,1,5010
+183,HP 255 G10,879,inactive,2,3426
+184,Nespresso Essenza Mini D,813,active,3,9557
+185,Lenovo Ideapad Slim 3,352,inactive,2,4764
+186,Motorola Moto G24 Power,445,inactive,1,3120
+187,Nespresso Essenza Mini D,612,active,3,6578
+188,Samsung Galaxy Np750 Book3,951,active,2,9122
+189,Lenovo Ideapad Slim 3,550,active,2,3354
+190,Dolce Gusto Genio S,560,inactive,3,1846
+191,Peabody Smartchef Pe-ct4207,321,inactive,3,4369
+192,Xiaomi Redmi Note 13 Pro,688,inactive,1,5057
+193,Samsung Galaxy Np750 Book3,142,active,2,86
+194,Nespresso Essenza Mini D,250,active,3,3853
+195,Motorola Moto G24 Power,961,active,1,8745
+196,Nespresso Essenza Mini D,793,active,3,6815
+197,Nespresso Essenza Mini D,708,active,3,230
+198,Lenovo Ideapad Slim 3,587,active,2,7844
+199,Nespresso Essenza Mini D,708,active,3,5104
+200,Samsung Galaxy Np750 Book3,453,active,2,3239
+201,Dolce Gusto Genio S,925,active,3,2416
+202,Dolce Gusto Genio S,979,inactive,3,4821
+203,Lenovo Ideapad Slim 3,341,active,2,86
+204,Samsung Galaxy A15,146,inactive,1,3833
+205,Lenovo Ideapad Slim 3,688,inactive,2,2447
+206,Peabody Smartchef Pe-ct4207,237,inactive,3,1916
+207,iPhone 17 Pro Max,663,inactive,1,4697
+208,Samsung Galaxy A15,789,inactive,1,895
+209,Dolce Gusto Piccolo XS,706,active,3,8270
+210,Motorola Moto G24 Power,813,active,1,4932
+211,Nespresso Essenza Mini D,549,inactive,3,6633
+212,iPhone 17 Pro Max,900,inactive,1,7694
+213,iPhone 17 Pro Max,898,active,1,6409
+214,Lenovo Ideapad Slim 3,679,inactive,2,4697
+215,iPhone 16 Pro,209,inactive,1,9313
+216,Lenovo Ideapad Slim 3,575,inactive,2,2475
+217,Dolce Gusto Piccolo XS,813,active,3,4558
+218,Nespresso Essenza Mini D,212,active,3,230
+219,Samsung Galaxy Np750 Book3,675,inactive,2,9004
+220,Samsung Galaxy Np750 Book3,436,inactive,2,9793
+221,Lenovo Ideapad Slim 3,917,inactive,2,2447
+222,Dolce Gusto Piccolo XS,997,inactive,3,2250
+223,Nespresso Essenza Mini D,234,inactive,3,8878
+224,Xiaomi Redmi Note 13 Pro,679,inactive,1,8904
+225, Smartchef Pe-ce5002 Automática Expreso P1,563,active,3,5200
+226,HP 255 G10,127,inactive,2,3129
+227,MacBook Pro 13,205,inactive,2,3078
+228,iPhone 17 Pro Max,444,inactive,1,7960
+229,Lenovo Ideapad Slim 3,606,active,2,4506
+230,Samsung Galaxy A15,969,inactive,1,3422
+231,iPhone 16 Pro,968,inactive,1,4944
+232,HP 255 G10,134,active,2,3229
+233,HP 255 G10,509,inactive,2,622
+234,Peabody Smartchef Pe-ct4207,357,active,3,6541
+235,Xiaomi Redmi Note 13 Pro,296,inactive,1,2811
+236,Nespresso Essenza Mini D,903,inactive,3,8274
+237,Lenovo Ideapad Slim 3,597,inactive,2,7828
+238,Samsung Galaxy Np750 Book3,571,inactive,2,8687
+239,Lenovo Ideapad Slim 3,915,inactive,2,7973
+240,iPhone 17 Pro Max,897,active,1,2334
+241,Dolce Gusto Piccolo XS,630,inactive,3,5983
+242,HP 255 G10,983,inactive,2,1747
+243, Smartchef Pe-ce5002 Automática Expreso P1,640,inactive,3,6809
+244,HP 255 G10,618,inactive,2,7252
+245,Samsung Galaxy Np750 Book3,252,inactive,2,857
+246,Samsung Galaxy A15,165,inactive,1,8390
+247,Motorola Moto G24 Power,559,active,1,895
+248,Samsung Galaxy Np750 Book3,358,active,2,2839
+249,Lenovo Ideapad Slim 3,950,active,2,5680
+250,Dolce Gusto Piccolo XS,413,inactive,3,587
+251,Peabody Smartchef Pe-ct4207,598,active,3,5808
+252,Lenovo Ideapad Slim 3,930,inactive,2,348
+253,Lenovo Ideapad Slim 3,627,inactive,2,9004
+254,Nespresso Essenza Mini D,548,active,3,1094
+255,Lenovo Ideapad Slim 3,104,active,2,1695
+256,iPhone 17 Pro Max,876,active,1,7719
+257,Lenovo Ideapad Slim 3,712,active,2,7632
+258,Dolce Gusto Piccolo XS,667,inactive,3,8627
+259,Dolce Gusto Genio S,839,active,3,481
+260,Samsung Galaxy A15,880,active,1,9171
+261,Dolce Gusto Genio S,904,active,3,9582
+262,Xiaomi Redmi Note 13 Pro,993,inactive,1,3066
+263,iPhone 16 Pro,978,inactive,1,4041
+264,iPhone 17 Pro Max,952,active,1,3787
+265,Samsung Galaxy A15,694,active,1,8603
+266,HP 255 G10,759,active,2,1971
+267,Dolce Gusto Piccolo XS,400,active,3,6815
+268,Samsung Galaxy Np750 Book3,464,active,2,5129
+269,Xiaomi Redmi Note 13 Pro,146,inactive,1,7654
+270,iPhone 17 Pro Max,734,inactive,1,7765
+271,Peabody Smartchef Pe-ct4207,447,active,3,7594
+272,Peabody Smartchef Pe-ct4207,570,active,3,7270
+273,Xiaomi Redmi Note 13 Pro,534,active,1,9558
+274,Nespresso Essenza Mini D,735,active,3,5680
+275,Xiaomi Redmi Note 13 Pro,527,inactive,1,1844
+276,Peabody Smartchef Pe-ct4207,521,inactive,3,889
+277,iPhone 16 Pro,432,active,1,8066
+278,Nespresso Essenza Mini D,110,inactive,3,4934
+279,Dolce Gusto Genio S,399,inactive,3,6784
+280,Xiaomi Redmi Note 13 Pro,692,inactive,1,5175
+281, Smartchef Pe-ce5002 Automática Expreso P1,986,inactive,3,1281
+282,Dolce Gusto Piccolo XS,146,active,3,261
+283,Lenovo Ideapad Slim 3,467,active,2,14
+284, Smartchef Pe-ce5002 Automática Expreso P1,611,active,3,5119
+285,Peabody Smartchef Pe-ct4207,958,inactive,3,6541
+286,Lenovo Ideapad Slim 3,942,inactive,2,2211
+287,Dolce Gusto Genio S,999,active,3,2134
+288,MacBook Pro 13,198,inactive,2,288
+289,Dolce Gusto Piccolo XS,670,active,3,1938
+290,Xiaomi Redmi Note 13 Pro,652,inactive,1,8879
+291,Peabody Smartchef Pe-ct4207,146,active,3,288
+292,Samsung Galaxy A15,907,inactive,1,960
+293,iPhone 17 Pro Max,237,active,1,5761
+294,Samsung Galaxy A15,398,inactive,1,3919
+295,Lenovo Ideapad Slim 3,719,active,2,1505
+296,Samsung Galaxy A15,512,active,1,7719
+297, Smartchef Pe-ce5002 Automática Expreso P1,601,active,3,6261
+298,Lenovo Ideapad Slim 3,317,active,2,6124
+299,Xiaomi Redmi Note 13 Pro,787,inactive,1,3815
+300,HP 255 G10,731,inactive,2,8918
+301,MacBook Pro 13,617,inactive,2,9293
+302,Motorola Moto G24 Power,513,inactive,1,2897
+303,Dolce Gusto Genio S,279,active,3,5152
+304,Samsung Galaxy Np750 Book3,211,inactive,2,4932
+305,Dolce Gusto Genio S,686,active,3,6350
+306,iPhone 16 Pro,112,active,1,271
+307, Smartchef Pe-ce5002 Automática Expreso P1,915,active,3,8627
+308,Dolce Gusto Piccolo XS,487,inactive,3,5010
+309,Lenovo Ideapad Slim 3,563,inactive,2,7465
+310,HP 255 G10,931,inactive,2,2928
+311,Dolce Gusto Genio S,540,active,3,1005
+312, Smartchef Pe-ce5002 Automática Expreso P1,759,inactive,3,4628
+313,Motorola Moto G24 Power,333,active,1,5746
+314,iPhone 17 Pro Max,798,inactive,1,3138
+315,Lenovo Ideapad Slim 3,349,active,2,3105
+316,Lenovo Ideapad Slim 3,193,active,2,2007
+317,Lenovo Ideapad Slim 3,332,active,2,4763
+318,iPhone 16 Pro,883,active,1,4157
+319,Peabody Smartchef Pe-ct4207,109,inactive,3,9906
+320,HP 255 G10,223,inactive,2,8270
+321,Samsung Galaxy A15,287,inactive,1,1069
+322,MacBook Pro 13,432,active,2,8687
+323,Peabody Smartchef Pe-ct4207,383,inactive,3,9991
+324,HP 255 G10,444,active,2,1390
+325,iPhone 17 Pro Max,904,inactive,1,4799
+326,Samsung Galaxy Np750 Book3,725,active,2,1669
+327,iPhone 17 Pro Max,986,active,1,1505
+328, Smartchef Pe-ce5002 Automática Expreso P1,767,inactive,3,7881
+329,Dolce Gusto Genio S,518,active,3,3910
+330,Samsung Galaxy Np750 Book3,896,inactive,2,5803
+331,Peabody Smartchef Pe-ct4207,543,active,3,1017
+332,Dolce Gusto Piccolo XS,371,inactive,3,3485
+333, Smartchef Pe-ce5002 Automática Expreso P1,168,inactive,3,7169
+334,Xiaomi Redmi Note 13 Pro,815,active,1,1916
+335,Dolce Gusto Genio S,354,active,3,9348
+336,Samsung Galaxy Np750 Book3,887,inactive,2,4771
+337,Peabody Smartchef Pe-ct4207,393,active,3,6869
+338,Samsung Galaxy Np750 Book3,895,inactive,2,7758
+339,HP 255 G10,143,active,2,888
+340,MacBook Pro 13,507,active,2,9117
+341,MacBook Pro 13,819,inactive,2,3138
+342,Motorola Moto G24 Power,142,active,1,2120
+343,Nespresso Essenza Mini D,865,active,3,8904
+344,Xiaomi Redmi Note 13 Pro,799,active,1,6648
+345,iPhone 16 Pro,985,active,1,1281
+346,Samsung Galaxy A15,381,active,1,4127
+347,Dolce Gusto Genio S,541,active,3,7089
+348,Lenovo Ideapad Slim 3,480,inactive,2,640
+349,Samsung Galaxy A15,803,active,1,5261
+350,Dolce Gusto Genio S,315,inactive,3,9920
+351,HP 255 G10,925,active,2,9558
+352,MacBook Pro 13,660,inactive,2,9812
+353, Smartchef Pe-ce5002 Automática Expreso P1,772,active,3,7814
+354,Xiaomi Redmi Note 13 Pro,656,active,1,3418
+355,Peabody Smartchef Pe-ct4207,600,active,3,6253
+356,Peabody Smartchef Pe-ct4207,568,active,3,5382
+357,MacBook Pro 13,352,inactive,2,3994
+358,Lenovo Ideapad Slim 3,272,active,2,4369
+359,Motorola Moto G24 Power,482,inactive,1,8441
+360,Dolce Gusto Piccolo XS,802,inactive,3,2250
+361,Xiaomi Redmi Note 13 Pro,719,active,1,8266
+362,MacBook Pro 13,677,inactive,2,348
+363,Xiaomi Redmi Note 13 Pro,233,inactive,1,7489
+364,Samsung Galaxy A15,619,inactive,1,201
+365,Peabody Smartchef Pe-ct4207,584,inactive,3,4539
+366,Dolce Gusto Piccolo XS,565,inactive,3,5967
+367,iPhone 16 Pro,796,active,1,9906
+368,HP 255 G10,147,inactive,2,5068
+369,iPhone 16 Pro,985,active,1,640
+370,Samsung Galaxy A15,944,inactive,1,9112
+371,HP 255 G10,678,active,2,6578
+372,Lenovo Ideapad Slim 3,893,inactive,2,5877
+373,iPhone 17 Pro Max,641,inactive,1,4838
+374,MacBook Pro 13,553,inactive,2,4044
+375,Samsung Galaxy A15,354,inactive,1,9556
+376,Samsung Galaxy A15,956,inactive,1,5036
+377,MacBook Pro 13,323,inactive,2,5877
+378,Lenovo Ideapad Slim 3,406,active,2,6442
+379,MacBook Pro 13,623,active,2,4744
+380,Samsung Galaxy A15,281,active,1,2447
+381,Nespresso Essenza Mini D,217,inactive,3,3586
+382,Nespresso Essenza Mini D,197,inactive,3,1585
+383,Lenovo Ideapad Slim 3,468,inactive,2,1358
+384,Peabody Smartchef Pe-ct4207,110,inactive,3,1186
+385,Samsung Galaxy A15,362,inactive,1,1270
+386,Peabody Smartchef Pe-ct4207,528,inactive,3,6124
+387,iPhone 17 Pro Max,526,inactive,1,9293
+388,iPhone 16 Pro,520,active,1,4267
+389,MacBook Pro 13,263,active,2,9112
+390,HP 255 G10,906,active,2,2416
+391,iPhone 16 Pro,430,inactive,1,9182
+392,HP 255 G10,787,active,2,3285
+393,Dolce Gusto Piccolo XS,805,inactive,3,3105
+394,Dolce Gusto Genio S,644,active,3,7973
+395,iPhone 17 Pro Max,435,active,1,392
+396,iPhone 16 Pro,331,inactive,1,5626
+397,Peabody Smartchef Pe-ct4207,361,active,3,8220
+398,Peabody Smartchef Pe-ct4207,159,inactive,3,4564
+399,Motorola Moto G24 Power,214,inactive,1,7252
+400,Motorola Moto G24 Power,362,inactive,1,6382
+401,Dolce Gusto Genio S,245,active,3,5591
+402, Smartchef Pe-ce5002 Automática Expreso P1,357,active,3,5680
+403,Dolce Gusto Piccolo XS,653,active,3,3815
+404,Lenovo Ideapad Slim 3,483,inactive,2,9582
+405,Samsung Galaxy Np750 Book3,566,inactive,2,8603
+406,iPhone 16 Pro,348,active,1,2222
+407,Peabody Smartchef Pe-ct4207,694,active,3,4600
+408,iPhone 17 Pro Max,575,active,1,6761
+409,iPhone 17 Pro Max,647,inactive,1,8878
+410,Nespresso Essenza Mini D,192,active,3,9004
+411,iPhone 17 Pro Max,944,active,1,3426
+412,Peabody Smartchef Pe-ct4207,912,inactive,3,4267
+413,Dolce Gusto Piccolo XS,665,inactive,3,9004
+414,MacBook Pro 13,983,active,2,4771
+415,Xiaomi Redmi Note 13 Pro,609,active,1,2882
+416,Lenovo Ideapad Slim 3,427,active,2,5626
+417,iPhone 16 Pro,176,active,1,9322
+418,HP 255 G10,652,active,2,8518
+419,Motorola Moto G24 Power,352,inactive,1,4920
+420,Dolce Gusto Piccolo XS,442,active,3,1555
+421,MacBook Pro 13,146,inactive,2,6863
+422, Smartchef Pe-ce5002 Automática Expreso P1,493,active,3,4920
+423,Samsung Galaxy Np750 Book3,685,active,2,4767
+424,Nespresso Essenza Mini D,986,inactive,3,1844
+425,Peabody Smartchef Pe-ct4207,737,active,3,2475
+426,Lenovo Ideapad Slim 3,413,inactive,2,2926
+427,Xiaomi Redmi Note 13 Pro,276,active,1,9122
+428,HP 255 G10,679,inactive,2,3792
+429,Samsung Galaxy A15,788,active,1,1052
+430,MacBook Pro 13,573,inactive,2,4838
+431,MacBook Pro 13,294,active,2,9182
+432,Peabody Smartchef Pe-ct4207,232,inactive,3,5504
+433,MacBook Pro 13,794,active,2,4263
+434,Samsung Galaxy Np750 Book3,796,active,2,6744
+435, Smartchef Pe-ce5002 Automática Expreso P1,103,inactive,3,622
+436,Motorola Moto G24 Power,116,active,1,9403
+437,Peabody Smartchef Pe-ct4207,647,inactive,3,6253
+438,Dolce Gusto Genio S,785,inactive,3,2200
+439,Xiaomi Redmi Note 13 Pro,886,active,1,1669
+440,Samsung Galaxy Np750 Book3,310,inactive,2,9413
+441,iPhone 17 Pro Max,932,active,1,8269
+442,Samsung Galaxy Np750 Book3,915,active,2,300
+443,iPhone 16 Pro,311,inactive,1,4910
+444,Samsung Galaxy A15,645,active,1,5508
+445,Peabody Smartchef Pe-ct4207,507,active,3,3884
+446,Dolce Gusto Piccolo XS,263,inactive,3,3138
+447,iPhone 17 Pro Max,216,inactive,1,5508
+448,Motorola Moto G24 Power,298,inactive,1,9610
+449,Dolce Gusto Genio S,711,inactive,3,8918
+450,Lenovo Ideapad Slim 3,140,inactive,2,7365
+451,HP 255 G10,729,inactive,2,3485
+452,Lenovo Ideapad Slim 3,901,inactive,2,1959
+453,Motorola Moto G24 Power,492,active,1,3617
+454,Nespresso Essenza Mini D,662,active,3,960
+455,Dolce Gusto Genio S,356,active,3,5068
+456,Peabody Smartchef Pe-ct4207,250,inactive,3,4154
+457,Lenovo Ideapad Slim 3,331,active,2,4600
+458,Dolce Gusto Genio S,485,active,3,2705
+459,Lenovo Ideapad Slim 3,831,inactive,2,2200
+460,iPhone 16 Pro,482,inactive,1,1646
+461,Samsung Galaxy A15,996,active,1,2334
+462,Lenovo Ideapad Slim 3,533,inactive,2,8096
+463,Xiaomi Redmi Note 13 Pro,265,inactive,1,5939
+464,iPhone 17 Pro Max,770,inactive,1,9174
+465,MacBook Pro 13,306,inactive,2,7758
+466,iPhone 16 Pro,944,active,1,5057
+467,Dolce Gusto Piccolo XS,680,inactive,3,7282
+468,iPhone 17 Pro Max,599,active,1,2384
+469,Dolce Gusto Genio S,917,inactive,3,8422
+470,MacBook Pro 13,569,inactive,2,6863
+471,Samsung Galaxy A15,279,inactive,1,9413
+472,Samsung Galaxy A15,595,active,1,9174
+473,Motorola Moto G24 Power,266,active,1,5036
+474,Dolce Gusto Piccolo XS,192,active,3,7262
+475,Peabody Smartchef Pe-ct4207,475,active,3,9991
+476,HP 255 G10,742,active,2,8878
+477, Smartchef Pe-ce5002 Automática Expreso P1,742,inactive,3,8823
+478,Motorola Moto G24 Power,854,active,1,7489
+479,HP 255 G10,729,inactive,2,8608
+480,HP 255 G10,533,active,2,8128
+481,Dolce Gusto Genio S,316,inactive,3,6550
+482,iPhone 16 Pro,126,active,1,7694
+483, Smartchef Pe-ce5002 Automática Expreso P1,876,inactive,3,230
+484,Samsung Galaxy Np750 Book3,217,active,2,6889
+485,iPhone 16 Pro,316,active,1,2231
+486,Dolce Gusto Genio S,303,inactive,3,261
+487,Dolce Gusto Piccolo XS,353,active,3,9319
+488,HP 255 G10,611,inactive,2,2231
+489,Motorola Moto G24 Power,844,inactive,1,5142
+490,HP 255 G10,637,active,2,4821
+491,Motorola Moto G24 Power,170,active,1,8623
+492,MacBook Pro 13,272,inactive,2,7611
+493,iPhone 17 Pro Max,769,inactive,1,888
+494,Lenovo Ideapad Slim 3,329,active,2,3129
+495,Dolce Gusto Genio S,787,active,3,7784
+496,Lenovo Ideapad Slim 3,271,active,2,6864
+497,Nespresso Essenza Mini D,165,inactive,3,5818
+498,MacBook Pro 13,312,inactive,2,8093
+499,Dolce Gusto Genio S,606,active,3,1063
+500,Peabody Smartchef Pe-ct4207,829,active,3,7740
+501,Nespresso Essenza Mini D,587,inactive,3,3129
+502,Lenovo Ideapad Slim 3,970,active,2,1747
+503,Xiaomi Redmi Note 13 Pro,832,active,1,3078
+504,Motorola Moto G24 Power,265,inactive,1,4910
+505,Samsung Galaxy A15,596,active,1,9900
+506,iPhone 17 Pro Max,899,active,1,6869
+507,Xiaomi Redmi Note 13 Pro,867,active,1,6382
+508,Motorola Moto G24 Power,662,active,1,3053
+509,Xiaomi Redmi Note 13 Pro,839,active,1,1286
+510,iPhone 17 Pro Max,104,active,1,6479
+511,Nespresso Essenza Mini D,784,active,3,5119
+512,Motorola Moto G24 Power,779,inactive,1,7501
+513,Nespresso Essenza Mini D,578,inactive,3,3233
+514,Dolce Gusto Piccolo XS,572,active,3,1585
+515,Lenovo Ideapad Slim 3,540,active,2,1332
+516,Samsung Galaxy A15,441,active,1,1892
+517, Smartchef Pe-ce5002 Automática Expreso P1,228,inactive,3,4303
+518,Samsung Galaxy Np750 Book3,116,active,2,5643
+519,Dolce Gusto Genio S,972,inactive,3,1321
+520,Lenovo Ideapad Slim 3,317,inactive,2,5504
+521,iPhone 16 Pro,220,inactive,1,2416
+522,Peabody Smartchef Pe-ct4207,876,inactive,3,8904
+523,Samsung Galaxy Np750 Book3,215,active,2,9906
+524,Dolce Gusto Piccolo XS,642,active,3,1938
+525,Samsung Galaxy Np750 Book3,645,active,2,7740
+526,Motorola Moto G24 Power,382,active,1,9573
+527,Peabody Smartchef Pe-ct4207,283,inactive,3,9762
+528,iPhone 16 Pro,424,active,1,2811
+529,Samsung Galaxy A15,543,inactive,1,8646
+530,Nespresso Essenza Mini D,836,inactive,3,2811
+531,HP 255 G10,937,active,2,392
+532,Dolce Gusto Piccolo XS,553,active,3,5719
+533,Samsung Galaxy A15,730,active,1,3787
+534,iPhone 16 Pro,944,inactive,1,7632
+535,HP 255 G10,974,active,2,1938
+536,Lenovo Ideapad Slim 3,515,active,2,9900
+537,iPhone 17 Pro Max,402,inactive,1,2384
+538,iPhone 17 Pro Max,539,active,1,8904
+539,Dolce Gusto Piccolo XS,116,inactive,3,261
+540,Dolce Gusto Genio S,262,active,3,1844
+541,Dolce Gusto Genio S,266,inactive,3,2348
+542,Peabody Smartchef Pe-ct4207,569,active,3,3939
+543,Xiaomi Redmi Note 13 Pro,757,inactive,1,3129
+544,Peabody Smartchef Pe-ct4207,891,inactive,3,8804
+545,MacBook Pro 13,661,active,2,5522
+546,iPhone 16 Pro,625,inactive,1,4533
+547,Dolce Gusto Piccolo XS,264,inactive,3,5077
+548,MacBook Pro 13,384,inactive,2,160
+549,Peabody Smartchef Pe-ct4207,204,active,3,5569
+550,Samsung Galaxy Np750 Book3,487,inactive,2,7932
+551,Lenovo Ideapad Slim 3,428,inactive,2,8623
+552, Smartchef Pe-ce5002 Automática Expreso P1,202,inactive,3,6654
+553,iPhone 17 Pro Max,776,inactive,1,6541
+554,Peabody Smartchef Pe-ct4207,975,active,3,3707
+555,HP 255 G10,505,active,2,8397
+556,Nespresso Essenza Mini D,721,inactive,3,8823
+557,Dolce Gusto Genio S,668,active,3,6257
+558,Lenovo Ideapad Slim 3,590,active,2,5592
+559,Peabody Smartchef Pe-ct4207,482,active,3,1186
+560,iPhone 17 Pro Max,862,active,1,8570
+561,Dolce Gusto Piccolo XS,640,inactive,3,1646
+562,Samsung Galaxy A15,989,active,1,3702
+563,Samsung Galaxy A15,843,active,1,4558
+564,Motorola Moto G24 Power,877,active,1,7219
+565,MacBook Pro 13,343,active,2,648
+566,Samsung Galaxy A15,343,active,1,2120
+567, Smartchef Pe-ce5002 Automática Expreso P1,273,active,3,9596
+568,Samsung Galaxy Np750 Book3,872,inactive,2,18
+569,iPhone 17 Pro Max,562,inactive,1,423
+570,iPhone 17 Pro Max,321,inactive,1,5508
+571,Dolce Gusto Piccolo XS,505,inactive,3,4129
+572,Nespresso Essenza Mini D,316,inactive,3,8307
+573,Nespresso Essenza Mini D,693,active,3,1821
+574,Samsung Galaxy A15,963,active,1,8190
+575,Motorola Moto G24 Power,999,active,1,8441
+576,iPhone 16 Pro,497,inactive,1,7375
+577,iPhone 17 Pro Max,769,active,1,8441
+578,Nespresso Essenza Mini D,667,inactive,3,1976
+579,Lenovo Ideapad Slim 3,806,active,2,3939
+580,iPhone 16 Pro,723,active,1,7058
+581,Motorola Moto G24 Power,625,active,1,5152
+582,HP 255 G10,641,active,2,3233
+583,Dolce Gusto Piccolo XS,230,inactive,3,2830
+584, Smartchef Pe-ce5002 Automática Expreso P1,288,active,3,9558
+585, Smartchef Pe-ce5002 Automática Expreso P1,618,inactive,3,5814
+586,Dolce Gusto Genio S,333,active,3,7755
+587,Motorola Moto G24 Power,629,inactive,1,6761
+588,Lenovo Ideapad Slim 3,789,active,2,2705
+589,HP 255 G10,321,active,2,2334
+590,Motorola Moto G24 Power,848,inactive,1,4764
+591,HP 255 G10,202,active,2,9041
+592,Nespresso Essenza Mini D,463,active,3,8766
+593,Lenovo Ideapad Slim 3,438,inactive,2,3651
+594,Lenovo Ideapad Slim 3,830,active,2,8481
+595, Smartchef Pe-ce5002 Automática Expreso P1,102,inactive,3,8685
+596,Motorola Moto G24 Power,436,inactive,1,8048
+597, Smartchef Pe-ce5002 Automática Expreso P1,477,active,3,5104
+598, Smartchef Pe-ce5002 Automática Expreso P1,760,inactive,3,9082
+599,Xiaomi Redmi Note 13 Pro,236,active,1,4129
+600,Dolce Gusto Genio S,496,inactive,3,3919
+601,Samsung Galaxy A15,130,inactive,1,8766
+602,Nespresso Essenza Mini D,404,inactive,3,8096
+603,Motorola Moto G24 Power,217,inactive,1,895
+604, Smartchef Pe-ce5002 Automática Expreso P1,234,active,3,5104
+605,HP 255 G10,945,inactive,2,3833
+606, Smartchef Pe-ce5002 Automática Expreso P1,748,active,3,3229
+607,Motorola Moto G24 Power,175,active,1,4846
+608,iPhone 16 Pro,383,inactive,1,8274
+609,Nespresso Essenza Mini D,445,active,3,1019
+610,MacBook Pro 13,765,inactive,2,6113
+611,Lenovo Ideapad Slim 3,245,active,2,5569
+612,Dolce Gusto Piccolo XS,472,active,3,7465
+613,Xiaomi Redmi Note 13 Pro,111,active,1,9293
+614,HP 255 G10,153,active,2,7262
+615,Samsung Galaxy A15,748,active,1,5591
+616,Lenovo Ideapad Slim 3,223,active,2,5522
+617,Lenovo Ideapad Slim 3,999,inactive,2,3531
+618,Lenovo Ideapad Slim 3,272,inactive,2,1197
+619,HP 255 G10,629,active,2,4758
+620,Lenovo Ideapad Slim 3,872,inactive,2,9920
+621,Peabody Smartchef Pe-ct4207,780,active,3,4643
+622, Smartchef Pe-ce5002 Automática Expreso P1,800,active,3,6523
+623,iPhone 17 Pro Max,675,inactive,1,5382
+624,iPhone 16 Pro,526,inactive,1,6261
+625,Dolce Gusto Genio S,597,active,3,7973
+626,Samsung Galaxy Np750 Book3,813,active,2,689
+627,iPhone 17 Pro Max,622,inactive,1,5274
+628,iPhone 16 Pro,924,inactive,1,8878
+629,Lenovo Ideapad Slim 3,774,inactive,2,7489
+630,Samsung Galaxy A15,980,active,1,7844
+631,iPhone 17 Pro Max,645,active,1,640
+632,Peabody Smartchef Pe-ct4207,960,inactive,3,587
+633,Xiaomi Redmi Note 13 Pro,433,active,1,2813
+634,Peabody Smartchef Pe-ct4207,228,inactive,3,9843
+635,Motorola Moto G24 Power,957,active,1,230
+636,Nespresso Essenza Mini D,930,active,3,9573
+637,Samsung Galaxy Np750 Book3,732,inactive,2,8685
+638,Xiaomi Redmi Note 13 Pro,945,active,1,8875
+639,Dolce Gusto Genio S,616,active,3,2811
+640,Lenovo Ideapad Slim 3,375,inactive,2,5601
+641,Nespresso Essenza Mini D,111,inactive,3,9313
+642,Samsung Galaxy A15,767,inactive,1,8397
+643, Smartchef Pe-ce5002 Automática Expreso P1,528,active,3,4129
+644,Motorola Moto G24 Power,111,inactive,1,3994
+645,Dolce Gusto Piccolo XS,974,inactive,3,7664
+646,Lenovo Ideapad Slim 3,754,active,2,5395
+647,Lenovo Ideapad Slim 3,167,active,2,6869
+648,Dolce Gusto Piccolo XS,110,active,3,2811
+649,HP 255 G10,684,inactive,2,348
+650,iPhone 16 Pro,664,active,1,4480
+651,MacBook Pro 13,628,inactive,2,5950
+652,Motorola Moto G24 Power,380,inactive,1,5274
+653, Smartchef Pe-ce5002 Automática Expreso P1,557,active,3,7784
+654,Lenovo Ideapad Slim 3,149,active,2,9413
+655,Peabody Smartchef Pe-ct4207,924,active,3,8270
+656,Lenovo Ideapad Slim 3,522,active,2,1627
+657,Samsung Galaxy A15,579,inactive,1,5204
+658,MacBook Pro 13,821,inactive,2,5591
+659,Dolce Gusto Piccolo XS,938,active,3,4767
+660,MacBook Pro 13,535,inactive,2,3949
+661,Dolce Gusto Piccolo XS,231,active,3,4154
+662,Lenovo Ideapad Slim 3,371,inactive,2,9112
+663,Samsung Galaxy Np750 Book3,462,inactive,2,4127
+664,Lenovo Ideapad Slim 3,164,inactive,2,288
+665,Samsung Galaxy A15,368,active,1,1846
+666, Smartchef Pe-ce5002 Automática Expreso P1,544,inactive,3,9182
+667,Lenovo Ideapad Slim 3,674,inactive,2,7221
+668,Samsung Galaxy Np750 Book3,536,inactive,2,698
+669,Nespresso Essenza Mini D,427,inactive,3,6648
+670,Samsung Galaxy A15,409,inactive,1,1063
+671, Smartchef Pe-ce5002 Automática Expreso P1,560,active,3,1669
+672,MacBook Pro 13,127,inactive,2,8608
+673,Nespresso Essenza Mini D,585,active,3,8437
+674,Xiaomi Redmi Note 13 Pro,726,active,1,1332
+675,iPhone 16 Pro,584,active,1,4369
+676, Smartchef Pe-ce5002 Automática Expreso P1,210,inactive,3,9313
+677,Lenovo Ideapad Slim 3,185,active,2,3651
+678,Nespresso Essenza Mini D,508,inactive,3,5175
+679,Peabody Smartchef Pe-ct4207,236,inactive,3,1063
+680,Dolce Gusto Genio S,178,active,3,4846
+681, Smartchef Pe-ce5002 Automática Expreso P1,703,inactive,3,9570
+682,Lenovo Ideapad Slim 3,386,inactive,2,6409
+683,Dolce Gusto Piccolo XS,684,active,3,9059
+684,iPhone 17 Pro Max,134,active,1,5119
+685,Xiaomi Redmi Note 13 Pro,101,inactive,1,4428
+686,Samsung Galaxy Np750 Book3,960,inactive,2,4267
+687,Lenovo Ideapad Slim 3,157,active,2,3853
+688,Samsung Galaxy Np750 Book3,166,inactive,2,1844
+689,iPhone 17 Pro Max,103,active,1,2200
+690,Dolce Gusto Piccolo XS,537,inactive,3,5680
+691,MacBook Pro 13,539,inactive,2,1052
+692,Motorola Moto G24 Power,865,active,1,367
+693,Lenovo Ideapad Slim 3,246,inactive,2,9582
+694,iPhone 16 Pro,826,inactive,1,1139
+695,Samsung Galaxy Np750 Book3,521,active,2,86
+696,Lenovo Ideapad Slim 3,222,inactive,2,6562
+697,Samsung Galaxy A15,830,inactive,1,4628
+698, Smartchef Pe-ce5002 Automática Expreso P1,447,active,3,3736
+699,Peabody Smartchef Pe-ct4207,394,inactive,3,1846
+700,Xiaomi Redmi Note 13 Pro,992,active,1,9261
+701,Lenovo Ideapad Slim 3,471,inactive,2,3078
+702,iPhone 16 Pro,956,active,1,2063
+703,Peabody Smartchef Pe-ct4207,960,inactive,3,4744
+704,iPhone 17 Pro Max,822,active,1,3815
+705,Dolce Gusto Piccolo XS,461,inactive,3,5261
+706, Smartchef Pe-ce5002 Automática Expreso P1,895,inactive,3,3285
+707,Lenovo Ideapad Slim 3,189,inactive,2,5746
+708, Smartchef Pe-ce5002 Automática Expreso P1,786,active,3,6873
+709,Peabody Smartchef Pe-ct4207,226,inactive,3,6979
+710,Xiaomi Redmi Note 13 Pro,370,inactive,1,8743
+711, Smartchef Pe-ce5002 Automática Expreso P1,546,inactive,3,133
+712,Dolce Gusto Piccolo XS,784,inactive,3,5657
+713,iPhone 16 Pro,387,inactive,1,1275
+714,Peabody Smartchef Pe-ct4207,637,active,3,2945
+715,MacBook Pro 13,277,active,2,8608
+716,HP 255 G10,823,inactive,2,3078
+717,MacBook Pro 13,973,inactive,2,648
+718,Dolce Gusto Genio S,822,active,3,5500
+719,Peabody Smartchef Pe-ct4207,441,active,3,3910
+720,Samsung Galaxy Np750 Book3,792,inactive,2,1821
+721,Lenovo Ideapad Slim 3,664,active,2,6962
+722,Nespresso Essenza Mini D,401,inactive,3,2348
+723,iPhone 17 Pro Max,978,active,1,1976
+724,iPhone 17 Pro Max,642,inactive,1,6113
+725,Xiaomi Redmi Note 13 Pro,346,inactive,1,9301
+726,Dolce Gusto Piccolo XS,733,active,3,4089
+727,Motorola Moto G24 Power,366,active,1,6293
+728,Samsung Galaxy A15,452,inactive,1,3091
+729,MacBook Pro 13,158,active,2,7844
+730, Smartchef Pe-ce5002 Automática Expreso P1,755,active,3,9777
+731,Lenovo Ideapad Slim 3,534,inactive,2,3939
+732,Peabody Smartchef Pe-ct4207,359,active,3,2134
+733,HP 255 G10,326,inactive,2,7089
+734,iPhone 17 Pro Max,358,active,1,230
+735,Samsung Galaxy A15,137,inactive,1,8687
+736,Motorola Moto G24 Power,812,active,1,6873
+737,Motorola Moto G24 Power,163,active,1,4643
+738,iPhone 16 Pro,348,inactive,1,8623
+739,MacBook Pro 13,583,inactive,2,7375
+740,Samsung Galaxy A15,472,active,1,8703
+741, Smartchef Pe-ce5002 Automática Expreso P1,831,inactive,3,481
+742,Dolce Gusto Genio S,595,inactive,3,4763
+743,Dolce Gusto Piccolo XS,431,inactive,3,7710
+744,MacBook Pro 13,446,inactive,2,4156
+745,Lenovo Ideapad Slim 3,546,inactive,2,2475
+746,Samsung Galaxy Np750 Book3,984,active,2,3541
+747,Samsung Galaxy A15,402,active,1,8518
+748,Lenovo Ideapad Slim 3,195,inactive,2,18
+749,Samsung Galaxy A15,863,inactive,1,6863
+750,MacBook Pro 13,472,inactive,2,3418
+751,Samsung Galaxy Np750 Book3,813,active,2,951
+752,Samsung Galaxy A15,643,active,1,8386
+753,iPhone 16 Pro,618,inactive,1,7965
+754,Motorola Moto G24 Power,190,inactive,1,5119
+755,Lenovo Ideapad Slim 3,535,active,2,698
+756,MacBook Pro 13,745,active,2,4506
+757,Samsung Galaxy Np750 Book3,683,inactive,2,4794
+758,Lenovo Ideapad Slim 3,711,inactive,2,6471
+759,Lenovo Ideapad Slim 3,853,active,2,3888
+760,Peabody Smartchef Pe-ct4207,327,active,3,8196
+761,Dolce Gusto Genio S,213,active,3,1802
+762,Peabody Smartchef Pe-ct4207,120,active,3,3129
+763,MacBook Pro 13,944,inactive,2,1270
+764,Motorola Moto G24 Power,310,active,1,8904
+765,Lenovo Ideapad Slim 3,541,inactive,2,9006
+766,Lenovo Ideapad Slim 3,469,active,2,4506
+767,Dolce Gusto Genio S,639,active,3,9322
+768,Xiaomi Redmi Note 13 Pro,389,active,1,2065
+769,Lenovo Ideapad Slim 3,613,inactive,2,7219
+770,Samsung Galaxy A15,376,active,1,4763
+771,Dolce Gusto Genio S,991,active,3,3066
+772,Xiaomi Redmi Note 13 Pro,284,inactive,1,1916
+773,Motorola Moto G24 Power,720,active,1,7058
+774,Dolce Gusto Piccolo XS,976,inactive,3,291
+775,Dolce Gusto Piccolo XS,497,active,3,4267
+776,Dolce Gusto Genio S,250,inactive,3,3813
+777,Lenovo Ideapad Slim 3,577,inactive,2,5200
+778,Nespresso Essenza Mini D,418,active,3,9991
+779,Samsung Galaxy Np750 Book3,822,active,2,8703
+780,Peabody Smartchef Pe-ct4207,522,inactive,3,41
+781,Lenovo Ideapad Slim 3,675,active,2,6130
+782,Lenovo Ideapad Slim 3,570,active,2,9793
+783,Dolce Gusto Genio S,270,active,3,2599
+784,Samsung Galaxy A15,257,inactive,1,3423
+785,HP 255 G10,639,inactive,2,3651
+786,Dolce Gusto Genio S,336,inactive,3,7828
+787,Dolce Gusto Genio S,570,inactive,3,6293
+788,iPhone 17 Pro Max,690,inactive,1,7501
+789,iPhone 17 Pro Max,832,active,1,6979
+790,HP 255 G10,210,active,2,6409
+791,Xiaomi Redmi Note 13 Pro,943,active,1,9900
+792,Dolce Gusto Piccolo XS,365,inactive,3,3149
+793,Samsung Galaxy Np750 Book3,284,active,2,1959
+794,Motorola Moto G24 Power,164,inactive,1,8918
+795,MacBook Pro 13,101,inactive,2,3239
+796,Peabody Smartchef Pe-ct4207,718,inactive,3,8048
+797,Peabody Smartchef Pe-ct4207,272,active,3,951
+798,Xiaomi Redmi Note 13 Pro,280,inactive,1,640
+799,iPhone 16 Pro,119,inactive,1,3910
+800,Motorola Moto G24 Power,127,inactive,1,7937
+801,Peabody Smartchef Pe-ct4207,820,active,3,3910
+802,Dolce Gusto Genio S,237,active,3,9059
+803,HP 255 G10,699,inactive,2,3789
+804,Motorola Moto G24 Power,579,active,1,5119
+805,Dolce Gusto Piccolo XS,473,active,3,4767
+806,Samsung Galaxy Np750 Book3,390,active,2,8646
+807,Samsung Galaxy Np750 Book3,184,inactive,2,576
+808,Peabody Smartchef Pe-ct4207,966,active,3,7719
+809,Lenovo Ideapad Slim 3,761,active,2,6962
+810,Peabody Smartchef Pe-ct4207,935,active,3,7493
+811,Samsung Galaxy Np750 Book3,907,active,2,8703
+812,Dolce Gusto Genio S,379,inactive,3,6188
+813,Xiaomi Redmi Note 13 Pro,229,inactive,1,344
+814, Smartchef Pe-ce5002 Automática Expreso P1,643,active,3,5204
+815,Motorola Moto G24 Power,979,inactive,1,6523
+816,Samsung Galaxy A15,500,inactive,1,481
+817,iPhone 16 Pro,651,active,1,1587
+818,Samsung Galaxy Np750 Book3,622,inactive,2,1976
+819,Peabody Smartchef Pe-ct4207,646,active,3,7932
+820,iPhone 17 Pro Max,568,inactive,1,4089
+821, Smartchef Pe-ce5002 Automática Expreso P1,555,active,3,6243
+822,Motorola Moto G24 Power,976,active,1,6864
+823,Dolce Gusto Genio S,535,inactive,3,2231
+824,Motorola Moto G24 Power,605,inactive,1,3651
+825,Peabody Smartchef Pe-ct4207,502,active,3,2211
+826,iPhone 17 Pro Max,116,active,1,7719
+827,Xiaomi Redmi Note 13 Pro,969,inactive,1,7814
+828,Samsung Galaxy Np750 Book3,680,inactive,2,4940
+829,Dolce Gusto Piccolo XS,611,inactive,3,6873
+830,MacBook Pro 13,513,active,2,1505
+831,Peabody Smartchef Pe-ct4207,223,active,3,8397
+832,Motorola Moto G24 Power,151,inactive,1,4303
+833,HP 255 G10,471,inactive,2,7489
+834,Samsung Galaxy A15,956,active,1,1384
+835,iPhone 17 Pro Max,780,inactive,1,2250
+836,Peabody Smartchef Pe-ct4207,138,active,3,8093
+837,Samsung Galaxy Np750 Book3,503,inactive,2,7513
+838,Peabody Smartchef Pe-ct4207,608,inactive,3,5412
+839,Peabody Smartchef Pe-ct4207,993,active,3,271
+840,Dolce Gusto Piccolo XS,267,active,3,5746
+841,Motorola Moto G24 Power,410,inactive,1,3423
+842,Nespresso Essenza Mini D,393,inactive,3,1802
+843,Dolce Gusto Genio S,811,active,3,3853
+844,Dolce Gusto Piccolo XS,458,active,3,648
+845,Dolce Gusto Genio S,648,inactive,3,6243
+846,iPhone 17 Pro Max,997,active,1,7282
+847,Samsung Galaxy Np750 Book3,735,inactive,2,4369
+848,Dolce Gusto Genio S,865,active,3,9843
+849,Samsung Galaxy A15,390,inactive,1,7758
+850,Nespresso Essenza Mini D,145,active,3,3485
+851,Dolce Gusto Genio S,829,inactive,3,288
+852,Samsung Galaxy A15,494,active,1,3422
+853,Lenovo Ideapad Slim 3,302,active,2,423
+854,Xiaomi Redmi Note 13 Pro,743,active,1,1069
+855,Motorola Moto G24 Power,789,inactive,1,5261
+856,Xiaomi Redmi Note 13 Pro,726,active,1,6541
+857,Samsung Galaxy Np750 Book3,523,active,2,576
+858,Nespresso Essenza Mini D,442,inactive,3,4966
+859,iPhone 17 Pro Max,340,inactive,1,4212
+860,MacBook Pro 13,815,inactive,2,8835
+861,MacBook Pro 13,383,inactive,2,8835
+862,Lenovo Ideapad Slim 3,616,inactive,2,3354
+863,Dolce Gusto Piccolo XS,704,inactive,3,8875
+864,iPhone 17 Pro Max,858,active,1,7318
+865,HP 255 G10,377,inactive,2,3129
+866,Nespresso Essenza Mini D,768,inactive,3,6382
+867,iPhone 16 Pro,843,active,1,3837
+868,Lenovo Ideapad Slim 3,424,inactive,2,5077
+869,Samsung Galaxy A15,816,inactive,1,2211
+870,Xiaomi Redmi Note 13 Pro,493,active,1,5017
+871,Xiaomi Redmi Note 13 Pro,188,active,1,6654
+872,Lenovo Ideapad Slim 3,156,active,2,8048
+873,iPhone 17 Pro Max,121,inactive,1,2707
+874,Dolce Gusto Genio S,637,inactive,3,317
+875,Lenovo Ideapad Slim 3,255,inactive,2,2599
+876,Samsung Galaxy Np750 Book3,213,active,2,3354
+877,Motorola Moto G24 Power,449,inactive,1,3616
+878,Nespresso Essenza Mini D,122,inactive,3,4794
+879,Peabody Smartchef Pe-ct4207,308,active,3,291
+880,Lenovo Ideapad Slim 3,263,inactive,2,1177
+881,iPhone 17 Pro Max,189,inactive,1,8939
+882,MacBook Pro 13,863,inactive,2,5680
+883,iPhone 17 Pro Max,189,active,1,3354
+884,Xiaomi Redmi Note 13 Pro,161,active,1,9906
+885,Dolce Gusto Piccolo XS,698,inactive,3,8745
+886,Dolce Gusto Piccolo XS,632,active,3,4758
+887,Lenovo Ideapad Slim 3,581,active,2,9777
+888,Motorola Moto G24 Power,272,inactive,1,1197
+889,Samsung Galaxy Np750 Book3,511,inactive,2,18
+890,Lenovo Ideapad Slim 3,477,active,2,3418
+891,Samsung Galaxy A15,166,inactive,1,160
+892,iPhone 16 Pro,554,active,1,1332
+893,Nespresso Essenza Mini D,150,inactive,3,2640
+894,Nespresso Essenza Mini D,822,active,3,3543
+895,Samsung Galaxy A15,807,inactive,1,7325
+896, Smartchef Pe-ce5002 Automática Expreso P1,331,inactive,3,5983
+897,Samsung Galaxy A15,650,active,1,4263
+898,Motorola Moto G24 Power,106,inactive,1,5152
+899,Samsung Galaxy A15,718,active,1,2811
+900,iPhone 16 Pro,910,inactive,1,3354
+901,Lenovo Ideapad Slim 3,683,active,2,889
+902,iPhone 16 Pro,884,inactive,1,5983
+903,iPhone 17 Pro Max,624,inactive,1,8377
+904,Dolce Gusto Piccolo XS,478,inactive,3,4303
+905,Lenovo Ideapad Slim 3,591,active,2,5261
+906,Motorola Moto G24 Power,313,active,1,1646
+907,Xiaomi Redmi Note 13 Pro,445,inactive,1,2120
+908,Motorola Moto G24 Power,246,inactive,1,1092
+909, Smartchef Pe-ce5002 Automática Expreso P1,460,active,3,8879
+910,iPhone 16 Pro,728,inactive,1,8685
+911,iPhone 16 Pro,807,inactive,1,7765
+912,HP 255 G10,843,active,2,5278
+913,Nespresso Essenza Mini D,186,active,3,1052
+914,iPhone 16 Pro,242,active,1,133
+915, Smartchef Pe-ce5002 Automática Expreso P1,459,inactive,3,7169
+916,MacBook Pro 13,102,inactive,2,9877
+917, Smartchef Pe-ce5002 Automática Expreso P1,610,inactive,3,1092
+918,Xiaomi Redmi Note 13 Pro,516,active,1,648
+919,Xiaomi Redmi Note 13 Pro,683,inactive,1,6480
+920,Nespresso Essenza Mini D,462,inactive,3,9041
+921,Samsung Galaxy A15,706,inactive,1,9573
+922, Smartchef Pe-ce5002 Automática Expreso P1,267,inactive,3,1585
+923,Samsung Galaxy A15,832,inactive,1,3939
+924, Smartchef Pe-ce5002 Automática Expreso P1,492,inactive,3,7867
+925,Nespresso Essenza Mini D,604,inactive,3,7740
+926,Motorola Moto G24 Power,755,active,1,4794
+927,iPhone 16 Pro,727,active,1,6744
+928, Smartchef Pe-ce5002 Automática Expreso P1,219,active,3,942
+929,iPhone 17 Pro Max,725,active,1,2231
+930,MacBook Pro 13,249,active,2,3233
+931,HP 255 G10,281,active,2,8092
+932,Dolce Gusto Piccolo XS,350,inactive,3,5803
+933,Peabody Smartchef Pe-ct4207,423,active,3,2926
+934,Motorola Moto G24 Power,655,active,1,1559
+935,Peabody Smartchef Pe-ct4207,633,inactive,3,9924
+936,HP 255 G10,925,active,2,1695
+937,iPhone 16 Pro,513,active,1,5556
+938,Peabody Smartchef Pe-ct4207,888,active,3,960
+939,Lenovo Ideapad Slim 3,278,inactive,2,9554
+940,Peabody Smartchef Pe-ct4207,782,active,3,5057
+941,Lenovo Ideapad Slim 3,527,active,2,3888
+942,MacBook Pro 13,180,active,2,2897
+943, Smartchef Pe-ce5002 Automática Expreso P1,449,inactive,3,1959
+944,iPhone 16 Pro,599,active,1,8048
+945,Samsung Galaxy A15,571,inactive,1,9570
+946,Peabody Smartchef Pe-ct4207,165,active,3,1275
+947,Peabody Smartchef Pe-ct4207,745,inactive,3,9322
+948,Nespresso Essenza Mini D,294,inactive,3,3939
+949,Samsung Galaxy Np750 Book3,727,inactive,2,1627
+950,HP 255 G10,520,inactive,2,5119
+951,HP 255 G10,212,inactive,2,3149
+952,Xiaomi Redmi Note 13 Pro,398,inactive,1,6442
+953,Peabody Smartchef Pe-ct4207,758,inactive,3,8603
+954,iPhone 16 Pro,380,active,1,8875
+955,MacBook Pro 13,827,inactive,2,261
+956,Nespresso Essenza Mini D,444,active,3,288
+957,Nespresso Essenza Mini D,711,active,3,2211
+958,Motorola Moto G24 Power,865,inactive,1,5761
+959,Lenovo Ideapad Slim 3,781,inactive,2,8768
+960,iPhone 17 Pro Max,847,inactive,1,7169
+961,Motorola Moto G24 Power,196,active,1,2705
+962,Dolce Gusto Piccolo XS,475,inactive,3,9403
+963,MacBook Pro 13,739,active,2,7937
+964,iPhone 16 Pro,574,inactive,1,2231
+965, Smartchef Pe-ce5002 Automática Expreso P1,983,inactive,3,6962
+966,Motorola Moto G24 Power,942,inactive,1,9556
+967,iPhone 16 Pro,864,active,1,3939
+968,Peabody Smartchef Pe-ct4207,573,active,3,6744
+969,iPhone 17 Pro Max,693,inactive,1,4940
+970,iPhone 17 Pro Max,999,inactive,1,7960
+971,Lenovo Ideapad Slim 3,245,active,2,3543
+972,Samsung Galaxy Np750 Book3,930,inactive,2,7375
+973,MacBook Pro 13,809,active,2,300
+974, Smartchef Pe-ce5002 Automática Expreso P1,118,inactive,3,3888
+975, Smartchef Pe-ce5002 Automática Expreso P1,397,active,3,2231
+976,Samsung Galaxy A15,395,inactive,1,806
+977,Dolce Gusto Genio S,836,inactive,3,3707
+978,Samsung Galaxy Np750 Book3,579,inactive,2,7221
+979,Dolce Gusto Genio S,789,inactive,3,6889
+980,Lenovo Ideapad Slim 3,435,active,2,8241
+981,Samsung Galaxy Np750 Book3,661,inactive,2,9358
+982,Dolce Gusto Piccolo XS,632,active,3,9358
+983, Smartchef Pe-ce5002 Automática Expreso P1,438,active,3,6979
+984,Lenovo Ideapad Slim 3,472,active,2,8518
+985,Lenovo Ideapad Slim 3,395,inactive,2,9322
+986,Motorola Moto G24 Power,864,active,1,3543
+987,Lenovo Ideapad Slim 3,592,inactive,2,5808
+988,Xiaomi Redmi Note 13 Pro,397,active,1,9596
+989,MacBook Pro 13,266,inactive,2,9313
+990,iPhone 17 Pro Max,313,active,1,8092
+991,MacBook Pro 13,318,inactive,2,4764
+992,Samsung Galaxy Np750 Book3,122,active,2,1844
+993,Peabody Smartchef Pe-ct4207,538,active,3,160
+994,Motorola Moto G24 Power,759,inactive,1,4744
+995,MacBook Pro 13,569,active,2,7252
+996,Peabody Smartchef Pe-ct4207,656,inactive,3,1332
+997,HP 255 G10,718,active,2,6550
+998,Xiaomi Redmi Note 13 Pro,746,active,1,7755
+999,iPhone 16 Pro,451,inactive,1,6124
+1000, Smartchef Pe-ce5002 Automática Expreso P1,642,active,3,5592
+1001,Dolce Gusto Genio S,766,inactive,3,7856
+1002,Motorola Moto G24 Power,975,active,1,8356
+1003,Peabody Smartchef Pe-ct4207,171,inactive,3,8443
+1004,Dolce Gusto Genio S,666,active,3,4758
+1005,Motorola Moto G24 Power,243,active,1,2120
+1006,Lenovo Ideapad Slim 3,362,active,2,1559
+1007,Dolce Gusto Genio S,455,active,3,6761
+1008,MacBook Pro 13,983,inactive,2,7650
+1009,Dolce Gusto Piccolo XS,699,inactive,3,3418
+1010,Xiaomi Redmi Note 13 Pro,208,inactive,1,2231
+1011, Smartchef Pe-ce5002 Automática Expreso P1,487,active,3,4369
+1012,Dolce Gusto Genio S,673,active,3,8048
+1013,Peabody Smartchef Pe-ct4207,600,inactive,3,6130
+1014,Xiaomi Redmi Note 13 Pro,934,active,1,4369
+1015,Dolce Gusto Genio S,820,inactive,3,1197
+1016,Dolce Gusto Piccolo XS,640,inactive,3,133
+1017,Nespresso Essenza Mini D,736,active,3,6611
+1018, Smartchef Pe-ce5002 Automática Expreso P1,374,inactive,3,8048
+1019,Xiaomi Redmi Note 13 Pro,482,active,1,4212
+1020,iPhone 16 Pro,837,inactive,1,4799
+1021,iPhone 17 Pro Max,862,inactive,1,7207
+1022,Lenovo Ideapad Slim 3,634,inactive,2,6744
+1023,Dolce Gusto Genio S,760,inactive,3,5680
+1024,Lenovo Ideapad Slim 3,665,inactive,2,3853
+1025,Lenovo Ideapad Slim 3,534,active,2,7262
+1026,iPhone 16 Pro,330,inactive,1,3057
+1027,HP 255 G10,860,inactive,2,9812
+1028,iPhone 16 Pro,164,inactive,1,4794
+1029,MacBook Pro 13,172,active,2,5010
+1030,Lenovo Ideapad Slim 3,898,active,2,9920
+1031,HP 255 G10,663,active,2,1559
+1032,Peabody Smartchef Pe-ct4207,608,inactive,3,1669
+1033,Lenovo Ideapad Slim 3,813,inactive,2,5129
+1034,Dolce Gusto Genio S,248,active,3,6611
+1035,Xiaomi Redmi Note 13 Pro,515,active,1,4920
+1036,Peabody Smartchef Pe-ct4207,775,inactive,3,6769
+1037,Peabody Smartchef Pe-ct4207,288,inactive,3,1938
+1038,Dolce Gusto Genio S,816,active,3,5814
+1039,iPhone 17 Pro Max,625,inactive,1,9004
+1040, Smartchef Pe-ce5002 Automática Expreso P1,791,inactive,3,7219
+1041,Lenovo Ideapad Slim 3,913,active,2,8307
+1042,Dolce Gusto Piccolo XS,462,active,3,5803
+1043,Lenovo Ideapad Slim 3,793,inactive,2,4533
+1044, Smartchef Pe-ce5002 Automática Expreso P1,876,active,3,6442
+1045, Smartchef Pe-ce5002 Automática Expreso P1,463,active,3,2211
+1046,Dolce Gusto Genio S,873,active,3,3736
+1047,iPhone 16 Pro,639,active,1,4966
+1048,Samsung Galaxy Np750 Book3,965,inactive,2,8269
+1049,HP 255 G10,273,active,2,2813
+1050,Lenovo Ideapad Slim 3,784,inactive,2,1938
+1051,Motorola Moto G24 Power,850,active,1,3853
+1052,MacBook Pro 13,652,inactive,2,1092
+1053,Dolce Gusto Genio S,211,active,3,9041
+1054,HP 255 G10,406,active,2,9906
+1055,Samsung Galaxy Np750 Book3,967,inactive,2,5382
+1056,MacBook Pro 13,187,active,2,6873
+1057,Lenovo Ideapad Slim 3,731,active,2,1400
+1058,iPhone 17 Pro Max,568,inactive,1,6011
+1059,HP 255 G10,674,active,2,423
+1060,iPhone 17 Pro Max,315,inactive,1,7594
+1061,Samsung Galaxy A15,644,inactive,1,4821
+1062,Dolce Gusto Piccolo XS,894,active,3,4533
+1063,HP 255 G10,145,active,2,271
+1064, Smartchef Pe-ce5002 Automática Expreso P1,965,inactive,3,2466
+1065,Lenovo Ideapad Slim 3,135,inactive,2,2334
+1066, Smartchef Pe-ce5002 Automática Expreso P1,125,active,3,6113
+1067,Samsung Galaxy Np750 Book3,559,active,2,3792
+1068,Xiaomi Redmi Note 13 Pro,833,active,1,86
+1069,Xiaomi Redmi Note 13 Pro,367,inactive,1,2882
+1070,iPhone 16 Pro,334,active,1,1332
+1071,Samsung Galaxy Np750 Book3,136,active,2,7122
+1072,HP 255 G10,208,active,2,7325
+1073,Samsung Galaxy A15,218,active,1,7784
+1074,HP 255 G10,738,active,2,6633
+1075,iPhone 16 Pro,995,inactive,1,4539
+1076,Xiaomi Redmi Note 13 Pro,761,active,1,2007
+1077,Lenovo Ideapad Slim 3,246,inactive,2,2059
+1078,Lenovo Ideapad Slim 3,971,inactive,2,4934
+1079,Lenovo Ideapad Slim 3,493,active,2,4600
+1080,Samsung Galaxy Np750 Book3,470,active,2,6815
+1081,Motorola Moto G24 Power,562,active,1,8481
+1082,Lenovo Ideapad Slim 3,131,inactive,2,5204
+1083,MacBook Pro 13,807,active,2,8066
+1084,iPhone 17 Pro Max,763,inactive,1,587
+1085,Motorola Moto G24 Power,242,active,1,8768
+1086,Lenovo Ideapad Slim 3,832,active,2,6550
+1087,Dolce Gusto Genio S,512,active,3,5177
+1088,Dolce Gusto Piccolo XS,766,inactive,3,5591
+1089,Dolce Gusto Genio S,419,active,3,4794
+1090,MacBook Pro 13,553,active,2,9276
+1091,Xiaomi Redmi Note 13 Pro,637,inactive,1,5111
+1092,Motorola Moto G24 Power,791,inactive,1,6397
+1093,Lenovo Ideapad Slim 3,969,active,2,7169
+1094,Samsung Galaxy A15,736,active,1,2830
+1095,HP 255 G10,711,inactive,2,6011
+1096,Dolce Gusto Piccolo XS,362,active,3,5111
+1097,Xiaomi Redmi Note 13 Pro,428,inactive,1,3239
+1098,Motorola Moto G24 Power,944,inactive,1,7318
+1099,Nespresso Essenza Mini D,889,inactive,3,4940
+1100,Nespresso Essenza Mini D,768,active,3,8685
+1101,Dolce Gusto Piccolo XS,612,inactive,3,7740
+1102,Xiaomi Redmi Note 13 Pro,877,active,1,8274
+1103,HP 255 G10,456,inactive,2,9570
+1104,Xiaomi Redmi Note 13 Pro,899,active,1,888
+1105,MacBook Pro 13,861,inactive,2,9573
+1106,Dolce Gusto Genio S,753,active,3,1019
+1107,Lenovo Ideapad Slim 3,523,inactive,2,3833
+1108,MacBook Pro 13,613,active,2,6480
+1109,HP 255 G10,649,active,2,8386
+1110,Xiaomi Redmi Note 13 Pro,911,inactive,1,232
+1111,Lenovo Ideapad Slim 3,624,active,2,8623
+1112,Nespresso Essenza Mini D,413,inactive,3,8939
+1113,Xiaomi Redmi Note 13 Pro,968,inactive,1,895
+1114,Nespresso Essenza Mini D,219,inactive,3,3792
+1115,HP 255 G10,503,active,2,5601
+1116,Samsung Galaxy A15,398,active,1,3222
+1117,Samsung Galaxy Np750 Book3,385,active,2,5939
+1118,iPhone 17 Pro Max,870,inactive,1,8570
+1119,Samsung Galaxy Np750 Book3,742,inactive,2,1802
+1120,Dolce Gusto Genio S,402,active,3,5017
+1121,Dolce Gusto Genio S,993,active,3,698
+1122,Peabody Smartchef Pe-ct4207,143,inactive,3,7142
+1123,Nespresso Essenza Mini D,804,active,3,6962
+1124,Dolce Gusto Genio S,235,inactive,3,9261
+1125,Peabody Smartchef Pe-ct4207,429,active,3,9319
+1126,HP 255 G10,124,inactive,2,9556
+1127,Samsung Galaxy A15,503,inactive,1,300
+1128,iPhone 16 Pro,974,inactive,1,8766
+1129,Samsung Galaxy Np750 Book3,667,inactive,2,1559
+1130,Dolce Gusto Genio S,330,inactive,3,1585
+1131,MacBook Pro 13,662,inactive,2,9276
+1132,Nespresso Essenza Mini D,365,active,3,2777
+1133,Samsung Galaxy A15,311,inactive,1,9807
+1134,HP 255 G10,525,inactive,2,7147
+1135, Smartchef Pe-ce5002 Automática Expreso P1,439,inactive,3,9991
+1136,Dolce Gusto Genio S,927,active,3,7937
+1137,iPhone 17 Pro Max,157,inactive,1,1281
+1138,Lenovo Ideapad Slim 3,754,active,2,4799
+1139,MacBook Pro 13,433,inactive,2,5967
+1140, Smartchef Pe-ce5002 Automática Expreso P1,478,inactive,3,9276
+1141,HP 255 G10,537,inactive,2,8390
+1142,iPhone 16 Pro,586,inactive,1,1092
+1143,Peabody Smartchef Pe-ct4207,708,active,3,2447
+1144,Lenovo Ideapad Slim 3,694,inactive,2,9900
+1145,Samsung Galaxy Np750 Book3,350,active,2,9276
+1146,Dolce Gusto Piccolo XS,451,inactive,3,5017
+1147,Motorola Moto G24 Power,897,active,1,8768
+1148, Smartchef Pe-ce5002 Automática Expreso P1,496,active,3,317
+1149,Peabody Smartchef Pe-ct4207,657,active,3,9719
+1150,Dolce Gusto Piccolo XS,448,inactive,3,2059
+1151,Lenovo Ideapad Slim 3,537,inactive,2,9741
+1152,Lenovo Ideapad Slim 3,595,inactive,2,6864
+1153,Lenovo Ideapad Slim 3,928,inactive,2,2120
+1154,Motorola Moto G24 Power,561,active,1,6058
+1155,Lenovo Ideapad Slim 3,136,inactive,2,7360
+1156,Lenovo Ideapad Slim 3,436,inactive,2,8386
+1157,Lenovo Ideapad Slim 3,943,active,2,9112
+1158,HP 255 G10,757,inactive,2,5142
+1159,iPhone 16 Pro,830,inactive,1,9877
+1160,Lenovo Ideapad Slim 3,573,active,2,5129
+1161,Xiaomi Redmi Note 13 Pro,811,inactive,1,8096
+1162,Samsung Galaxy Np750 Book3,144,active,2,300
+1163,Dolce Gusto Genio S,945,active,3,5814
+1164,Lenovo Ideapad Slim 3,262,inactive,2,6633
+1165,iPhone 16 Pro,550,active,1,3485
+1166,Dolce Gusto Piccolo XS,506,inactive,3,2416
+1167, Smartchef Pe-ce5002 Automática Expreso P1,737,inactive,3,6654
+1168,Xiaomi Redmi Note 13 Pro,445,inactive,1,1695
+1169,Nespresso Essenza Mini D,871,active,3,6925
+1170,iPhone 16 Pro,222,active,1,8766
+1171,Motorola Moto G24 Power,627,active,1,1400
+1172,Dolce Gusto Genio S,650,active,3,5569
+1173,Lenovo Ideapad Slim 3,777,active,2,4758
+1174,Lenovo Ideapad Slim 3,407,inactive,2,5592
+1175,HP 255 G10,641,inactive,2,1177
+1176,Dolce Gusto Genio S,799,active,3,5104
+1177,iPhone 16 Pro,737,inactive,1,3053
+1178,Dolce Gusto Piccolo XS,586,active,3,7221
+1179,Samsung Galaxy Np750 Book3,679,inactive,2,8386
+1180,iPhone 17 Pro Max,400,inactive,1,1332
+1181,iPhone 17 Pro Max,845,active,1,1390
+1182,Peabody Smartchef Pe-ct4207,130,active,3,7318
+1183,Samsung Galaxy Np750 Book3,989,active,2,7375
+1184,Peabody Smartchef Pe-ct4207,672,inactive,3,7270
+1185,Motorola Moto G24 Power,953,inactive,1,3066
+1186,Samsung Galaxy Np750 Book3,861,active,2,6562
+1187,MacBook Pro 13,197,inactive,2,1052
+1188,Samsung Galaxy Np750 Book3,177,inactive,2,3053
+1189,iPhone 17 Pro Max,401,active,1,8385
+1190,Nespresso Essenza Mini D,584,inactive,3,4763
+1191, Smartchef Pe-ce5002 Automática Expreso P1,607,active,3,7262
+1192,Dolce Gusto Piccolo XS,327,inactive,3,9900
+1193,iPhone 16 Pro,534,inactive,1,1094
+1194,Samsung Galaxy Np750 Book3,924,inactive,2,2211
+1195,HP 255 G10,667,inactive,2,5010
+1196,iPhone 17 Pro Max,535,inactive,1,1646
+1197,HP 255 G10,451,inactive,2,3120
+1198,iPhone 16 Pro,986,inactive,1,1646
+1199,Lenovo Ideapad Slim 3,481,active,2,1959
+1200,Xiaomi Redmi Note 13 Pro,426,inactive,1,2777
+1201,iPhone 16 Pro,667,inactive,1,7881
+1202,Xiaomi Redmi Note 13 Pro,536,active,1,3354
+1203,Dolce Gusto Genio S,291,inactive,3,8518
+1204,Nespresso Essenza Mini D,609,active,3,8386
+1205,Dolce Gusto Genio S,805,active,3,1559
+1206,iPhone 17 Pro Max,109,inactive,1,2882
+1207,iPhone 17 Pro Max,731,inactive,1,9004
+1208,Samsung Galaxy A15,415,inactive,1,9404
+1209,Motorola Moto G24 Power,690,inactive,1,9558
+1210,Dolce Gusto Piccolo XS,545,inactive,3,7221
+1211,Lenovo Ideapad Slim 3,709,inactive,2,2063
+1212,iPhone 17 Pro Max,472,inactive,1,6654
+1213,iPhone 16 Pro,642,active,1,9762
+1214,Dolce Gusto Piccolo XS,328,inactive,3,5129
+1215,Samsung Galaxy Np750 Book3,202,inactive,2,6382
+1216, Smartchef Pe-ce5002 Automática Expreso P1,650,active,3,9174
+1217,Dolce Gusto Genio S,289,inactive,3,4767
+1218,iPhone 17 Pro Max,622,active,1,1555
+1219,Peabody Smartchef Pe-ct4207,592,inactive,3,1332
+1220,Lenovo Ideapad Slim 3,632,inactive,2,1747
+1221,Nespresso Essenza Mini D,505,active,3,6479
+1222,iPhone 17 Pro Max,623,inactive,1,9797
+1223,iPhone 16 Pro,601,inactive,1,5177
+1224,Dolce Gusto Piccolo XS,700,inactive,3,8241
+1225,Samsung Galaxy Np750 Book3,360,inactive,2,7632
+1226,iPhone 16 Pro,798,active,1,8266
+1227,iPhone 16 Pro,550,active,1,9082
+1228,Dolce Gusto Piccolo XS,118,active,3,8531
+1229,Lenovo Ideapad Slim 3,699,active,2,3057
+1230,Dolce Gusto Genio S,288,active,3,7240
+1231, Smartchef Pe-ce5002 Automática Expreso P1,665,inactive,3,8220
+1232,iPhone 17 Pro Max,189,active,1,6783
+1233,HP 255 G10,335,inactive,2,2301
+1234,MacBook Pro 13,118,inactive,2,3091
+1235,Dolce Gusto Genio S,677,inactive,3,7169
+1236,Motorola Moto G24 Power,151,active,1,5266
+1237,Samsung Galaxy A15,580,active,1,7881
+1238,Peabody Smartchef Pe-ct4207,886,inactive,3,4767
+1239,Motorola Moto G24 Power,505,inactive,1,8436
+1240,Xiaomi Redmi Note 13 Pro,598,active,1,3833
+1241,Lenovo Ideapad Slim 3,155,inactive,2,2466
+1242,Xiaomi Redmi Note 13 Pro,547,inactive,1,8385
+1243,Motorola Moto G24 Power,834,inactive,1,6562
+1244,Samsung Galaxy Np750 Book3,370,active,2,7814
+1245,HP 255 G10,728,active,2,4303
+1246,MacBook Pro 13,639,active,2,2813
+1247,Samsung Galaxy A15,338,active,1,2599
+1248,Xiaomi Redmi Note 13 Pro,696,inactive,1,698
+1249,iPhone 17 Pro Max,476,active,1,41
+1250,Samsung Galaxy Np750 Book3,926,active,2,3888
+1251,Peabody Smartchef Pe-ct4207,154,inactive,3,4154
+1252,MacBook Pro 13,232,inactive,2,1092
+1253,HP 255 G10,216,active,2,3511
+1254,Lenovo Ideapad Slim 3,918,inactive,2,9276
+1255,Samsung Galaxy A15,440,active,1,895
+1256,Samsung Galaxy A15,492,inactive,1,6979
+1257, Smartchef Pe-ce5002 Automática Expreso P1,598,inactive,3,7169
+1258,HP 255 G10,739,inactive,2,4764
+1259,Motorola Moto G24 Power,902,inactive,1,1559
+1260, Smartchef Pe-ce5002 Automática Expreso P1,544,active,3,8531
+1261,Peabody Smartchef Pe-ct4207,763,active,3,8385
+1262,Samsung Galaxy A15,307,inactive,1,4156
+1263,HP 255 G10,396,inactive,2,2839
+1264,Dolce Gusto Genio S,142,active,3,6550
+1265,Samsung Galaxy Np750 Book3,647,inactive,2,7765
+1266,Samsung Galaxy Np750 Book3,311,inactive,2,7710
+1267,Motorola Moto G24 Power,659,active,1,4944
+1268,Peabody Smartchef Pe-ct4207,618,active,3,895
+1269,Dolce Gusto Piccolo XS,548,inactive,3,3239
+1270,Xiaomi Redmi Note 13 Pro,145,active,1,1557
+1271,Peabody Smartchef Pe-ct4207,920,inactive,3,1976
+1272,Peabody Smartchef Pe-ct4207,259,inactive,3,7755
+1273, Smartchef Pe-ce5002 Automática Expreso P1,113,active,3,9570
+1274,Samsung Galaxy A15,170,active,1,7740
+1275, Smartchef Pe-ce5002 Automática Expreso P1,195,active,3,6648
+1276,Motorola Moto G24 Power,198,active,1,7365
+1277,Samsung Galaxy A15,854,active,1,9293
+1278,Samsung Galaxy A15,207,active,1,8835
+1279, Smartchef Pe-ce5002 Automática Expreso P1,464,inactive,3,4771
+1280,Samsung Galaxy Np750 Book3,379,inactive,2,1646
+1281,Samsung Galaxy A15,121,inactive,1,8878
+1282, Smartchef Pe-ce5002 Automática Expreso P1,251,active,3,3233
+1283,Motorola Moto G24 Power,439,inactive,1,9149
+1284,Lenovo Ideapad Slim 3,314,active,2,5680
+1285,Motorola Moto G24 Power,871,active,1,8603
+1286,Peabody Smartchef Pe-ct4207,590,active,3,9822
+1287,Nespresso Essenza Mini D,603,inactive,3,4865
+1288,Motorola Moto G24 Power,569,active,1,367
+1289,iPhone 16 Pro,455,active,1,4966
+1290,Samsung Galaxy Np750 Book3,133,inactive,2,227
+1291,Samsung Galaxy A15,378,active,1,5967
+1292,iPhone 17 Pro Max,902,inactive,1,348
+1293,Lenovo Ideapad Slim 3,587,inactive,2,9301
+1294,Dolce Gusto Piccolo XS,812,active,3,3356
+1295,Samsung Galaxy A15,981,active,1,5814
+1296,Peabody Smartchef Pe-ct4207,723,inactive,3,942
+1297,iPhone 17 Pro Max,435,active,1,4758
+1298, Smartchef Pe-ce5002 Automática Expreso P1,126,inactive,3,1860
+1299,Lenovo Ideapad Slim 3,634,active,2,300
+1300,Motorola Moto G24 Power,115,inactive,1,9082
+1301,HP 255 G10,232,active,2,8190
+1302, Smartchef Pe-ce5002 Automática Expreso P1,738,active,3,261
+1303,Samsung Galaxy A15,502,active,1,7513
+1304,Dolce Gusto Genio S,602,inactive,3,4940
+1305,Lenovo Ideapad Slim 3,615,inactive,2,7509
+1306,Samsung Galaxy Np750 Book3,764,inactive,2,4940
+1307,Dolce Gusto Genio S,523,active,3,5200
+1308,Dolce Gusto Genio S,358,inactive,3,4303
+1309,Dolce Gusto Piccolo XS,993,active,3,9235
+1310,Samsung Galaxy A15,722,active,1,4212
+1311,Samsung Galaxy Np750 Book3,933,active,2,7632
+1312, Smartchef Pe-ce5002 Automática Expreso P1,649,active,3,3939
+1313,iPhone 17 Pro Max,208,inactive,1,2063
+1314,iPhone 16 Pro,284,active,1,1094
+1315,Nespresso Essenza Mini D,415,active,3,8377
+1316,Xiaomi Redmi Note 13 Pro,398,inactive,1,5950
+1317,Nespresso Essenza Mini D,141,active,3,3426
+1318,Dolce Gusto Genio S,832,active,3,5808
+1319,Peabody Smartchef Pe-ct4207,264,inactive,3,4154
+1320,Motorola Moto G24 Power,691,active,1,6188
+1321,iPhone 16 Pro,458,inactive,1,6962
+1322,HP 255 G10,445,active,2,5077
+1323,MacBook Pro 13,457,active,2,9082
+1324,Samsung Galaxy A15,387,inactive,1,7828
+1325,iPhone 17 Pro Max,287,inactive,1,1019
+1326,HP 255 G10,884,inactive,2,9797
+1327,Dolce Gusto Genio S,673,active,3,481
+1328,Dolce Gusto Piccolo XS,431,active,3,4506
+1329,Samsung Galaxy A15,480,inactive,1,7594
+1330,Lenovo Ideapad Slim 3,102,active,2,1281
+1331,iPhone 17 Pro Max,244,inactive,1,4156
+1332,iPhone 17 Pro Max,879,active,1,4506
+1333,Lenovo Ideapad Slim 3,329,inactive,2,3170
+1334,MacBook Pro 13,425,active,2,392
+1335,Lenovo Ideapad Slim 3,490,active,2,9557
+1336, Smartchef Pe-ce5002 Automática Expreso P1,657,active,3,6409
+1337,HP 255 G10,974,active,2,344
+1338,iPhone 17 Pro Max,737,active,1,3423
+1339,Motorola Moto G24 Power,963,inactive,1,1197
+1340,Motorola Moto G24 Power,533,inactive,1,3418
+1341,Dolce Gusto Piccolo XS,286,active,3,2897
+1342,Lenovo Ideapad Slim 3,233,inactive,2,3133
+1343,HP 255 G10,571,active,2,5657
+1344,Lenovo Ideapad Slim 3,265,active,2,3910
+1345,Dolce Gusto Genio S,957,active,3,3736
+1346,Nespresso Essenza Mini D,910,active,3,689
+1347,iPhone 16 Pro,975,inactive,1,8048
+1348, Smartchef Pe-ce5002 Automática Expreso P1,287,active,3,7654
+1349,iPhone 16 Pro,408,active,1,2839
+1350,MacBook Pro 13,815,active,2,6783
+1351,Samsung Galaxy Np750 Book3,286,active,2,9777
+1352,Motorola Moto G24 Power,429,active,1,1892
+1353,iPhone 16 Pro,381,active,1,5204
+1354,Samsung Galaxy Np750 Book3,594,inactive,2,3356
+1355,HP 255 G10,872,active,2,4212
+1356,Motorola Moto G24 Power,127,inactive,1,6654
+1357,Nespresso Essenza Mini D,131,inactive,3,8149
+1358,Lenovo Ideapad Slim 3,954,inactive,2,4267
+1359,Peabody Smartchef Pe-ct4207,916,active,3,6257
+1360,MacBook Pro 13,972,active,2,7122
+1361,Samsung Galaxy Np750 Book3,140,active,2,2811
+1362,Motorola Moto G24 Power,774,inactive,1,6192
+1363, Smartchef Pe-ce5002 Automática Expreso P1,566,inactive,3,133
+1364, Smartchef Pe-ce5002 Automática Expreso P1,289,active,3,4846
+1365,iPhone 16 Pro,571,inactive,1,2222
+1366,HP 255 G10,122,inactive,2,8437
+1367,Dolce Gusto Piccolo XS,810,active,3,7553
+1368,Motorola Moto G24 Power,525,inactive,1,4564
+1369,Lenovo Ideapad Slim 3,114,inactive,2,2416
+1370,iPhone 17 Pro Max,148,active,1,9082
+1371,Peabody Smartchef Pe-ct4207,654,active,3,7221
+1372,Samsung Galaxy Np750 Book3,755,inactive,2,6688
+1373,iPhone 16 Pro,401,active,1,9777
+1374,Xiaomi Redmi Note 13 Pro,215,inactive,1,9276
+1375,Lenovo Ideapad Slim 3,115,inactive,2,1069
+1376,Samsung Galaxy A15,539,active,1,3616
+1377,iPhone 16 Pro,431,active,1,2395
+1378,iPhone 17 Pro Max,304,inactive,1,4865
+1379,Peabody Smartchef Pe-ct4207,400,inactive,3,6873
+1380,Xiaomi Redmi Note 13 Pro,867,inactive,1,6253
+1381,HP 255 G10,698,active,2,7122
+1382,MacBook Pro 13,870,active,2,1275
+1383,Lenovo Ideapad Slim 3,774,inactive,2,2475
+1384,MacBook Pro 13,139,active,2,698
+1385,Samsung Galaxy A15,701,active,1,9403
+1386,Lenovo Ideapad Slim 3,759,active,2,9004
+1387,Samsung Galaxy Np750 Book3,228,inactive,2,8687
+1388,iPhone 17 Pro Max,723,inactive,1,1646
+1389,Xiaomi Redmi Note 13 Pro,488,inactive,1,8241
+1390,Peabody Smartchef Pe-ct4207,919,active,3,7360
+1391,MacBook Pro 13,108,inactive,2,6073
+1392,Xiaomi Redmi Note 13 Pro,787,inactive,1,7710
+1393,Peabody Smartchef Pe-ct4207,109,active,3,86
+1394,Samsung Galaxy Np750 Book3,948,inactive,2,5504
+1395,Dolce Gusto Genio S,466,inactive,3,8608
+1396,HP 255 G10,739,inactive,2,6254
+1397,iPhone 16 Pro,928,inactive,1,1276
+1398,Nespresso Essenza Mini D,269,active,3,6480
+1399,Xiaomi Redmi Note 13 Pro,858,active,1,9793
+1400,Peabody Smartchef Pe-ct4207,823,inactive,3,230
+1401,MacBook Pro 13,995,active,2,9348
+1402,Motorola Moto G24 Power,112,active,1,9319
+1403,Dolce Gusto Genio S,622,inactive,3,2928
+1404,Nespresso Essenza Mini D,258,active,3,7513
+1405,iPhone 17 Pro Max,150,active,1,2813
+1406,iPhone 16 Pro,936,active,1,8196
+1407,Xiaomi Redmi Note 13 Pro,639,active,1,5010
+1408,MacBook Pro 13,651,inactive,2,9570
+1409,Samsung Galaxy Np750 Book3,997,inactive,2,3285
+1410,Samsung Galaxy A15,135,inactive,1,640
+1411,Peabody Smartchef Pe-ct4207,353,inactive,3,8048
+1412,MacBook Pro 13,493,active,2,6688
+1413,Lenovo Ideapad Slim 3,840,active,2,9006
+1414,Xiaomi Redmi Note 13 Pro,827,inactive,1,3129
+1415,Lenovo Ideapad Slim 3,267,active,2,9322
+1416,Samsung Galaxy A15,800,active,1,3129
+1417,Dolce Gusto Genio S,495,active,3,4846
+1418,Dolce Gusto Genio S,320,active,3,9573
+1419,Lenovo Ideapad Slim 3,699,inactive,2,7710
+1420,Dolce Gusto Piccolo XS,548,active,3,4767
+1421,Samsung Galaxy A15,834,inactive,1,8768
+1422,iPhone 16 Pro,276,active,1,3888
+1423,Lenovo Ideapad Slim 3,190,active,2,9155
+1424, Smartchef Pe-ce5002 Automática Expreso P1,267,active,3,18
+1425,Peabody Smartchef Pe-ct4207,880,active,3,8270
+1426,Lenovo Ideapad Slim 3,105,active,2,4643
+1427,Xiaomi Redmi Note 13 Pro,556,active,1,7489
+1428,iPhone 17 Pro Max,457,active,1,7654
+1429, Smartchef Pe-ce5002 Automática Expreso P1,646,active,3,9596
+1430,Motorola Moto G24 Power,944,active,1,3285
+1431,Lenovo Ideapad Slim 3,540,inactive,2,481
+1432,iPhone 17 Pro Max,340,active,1,8190
+1433,Dolce Gusto Genio S,650,inactive,3,5719
+1434,MacBook Pro 13,375,active,2,4600
+1435,Nespresso Essenza Mini D,997,active,3,1092
+1436, Smartchef Pe-ce5002 Automática Expreso P1,300,active,3,3426
+1437,Motorola Moto G24 Power,855,active,1,7758
+1438,iPhone 16 Pro,677,active,1,7509
+1439,Lenovo Ideapad Slim 3,429,active,2,4263
+1440,iPhone 17 Pro Max,261,active,1,3541
+1441, Smartchef Pe-ce5002 Automática Expreso P1,458,inactive,3,3813
+1442,Motorola Moto G24 Power,461,active,1,3105
+1443,iPhone 16 Pro,290,inactive,1,4016
+1444,Dolce Gusto Genio S,370,inactive,3,8904
+1445,Nespresso Essenza Mini D,186,inactive,3,2811
+1446,Dolce Gusto Piccolo XS,593,inactive,3,9276
+1447,Nespresso Essenza Mini D,370,active,3,5719
+1448,Nespresso Essenza Mini D,415,active,3,9174
+1449,Lenovo Ideapad Slim 3,370,inactive,2,2407
+1450,Dolce Gusto Piccolo XS,433,inactive,3,2945
+1451,Dolce Gusto Genio S,238,inactive,3,4156
+1452,Samsung Galaxy Np750 Book3,638,active,2,1332
+1453,iPhone 16 Pro,524,inactive,1,8220
+1454,MacBook Pro 13,723,active,2,86
+1455,Motorola Moto G24 Power,769,active,1,3813
+1456, Smartchef Pe-ce5002 Automática Expreso P1,438,inactive,3,6688
+1457,iPhone 16 Pro,670,active,1,8356
+1458,Lenovo Ideapad Slim 3,865,active,2,6761
+1459,Samsung Galaxy Np750 Book3,912,active,2,8835
+1460,Samsung Galaxy A15,859,active,1,2059
+1461,Xiaomi Redmi Note 13 Pro,588,active,1,7169
+1462,HP 255 G10,646,inactive,2,5119
+1463,Motorola Moto G24 Power,788,active,1,3433
+1464,Dolce Gusto Genio S,864,inactive,3,7360
+1465,iPhone 16 Pro,774,inactive,1,7282
+1466,Samsung Galaxy A15,870,inactive,1,3884
+1467,Dolce Gusto Genio S,759,active,3,4794
+1468,Nespresso Essenza Mini D,972,inactive,3,8687
+1469, Smartchef Pe-ce5002 Automática Expreso P1,216,active,3,8939
+1470,MacBook Pro 13,499,inactive,2,1197
+1471,Xiaomi Redmi Note 13 Pro,671,active,1,2231
+1472,iPhone 16 Pro,437,inactive,1,3616
+1473,iPhone 16 Pro,826,active,1,8390
+1474,Xiaomi Redmi Note 13 Pro,755,inactive,1,2334
+1475,Samsung Galaxy Np750 Book3,941,active,2,86
+1476,Nespresso Essenza Mini D,325,inactive,3,2926
+1477,iPhone 16 Pro,785,active,1,4127
+1478,HP 255 G10,300,active,2,1052
+1479,iPhone 17 Pro Max,643,inactive,1,1270
+1480,iPhone 16 Pro,751,inactive,1,9276
+1481,HP 255 G10,649,inactive,2,4764
+1482, Smartchef Pe-ce5002 Automática Expreso P1,715,active,3,5803
+1483,Dolce Gusto Genio S,874,active,3,8422
+1484,MacBook Pro 13,469,inactive,2,6261
+1485,Nespresso Essenza Mini D,595,inactive,3,5601
+1486,Samsung Galaxy Np750 Book3,133,inactive,2,6869
+1487,Lenovo Ideapad Slim 3,854,active,2,3229
+1488,MacBook Pro 13,359,inactive,2,3919
+1489,Xiaomi Redmi Note 13 Pro,848,active,1,7058
+1490,Samsung Galaxy Np750 Book3,266,active,2,5261
+1491,Lenovo Ideapad Slim 3,454,active,2,7987
+1492,iPhone 17 Pro Max,583,inactive,1,2416
+1493,Peabody Smartchef Pe-ct4207,364,inactive,3,5072
+1494,iPhone 17 Pro Max,929,active,1,5643
+1495,HP 255 G10,733,active,2,7828
+1496,Samsung Galaxy A15,302,active,1,7375
+1497,Xiaomi Redmi Note 13 Pro,294,active,1,5017
+1498,Lenovo Ideapad Slim 3,860,inactive,2,1358
+1499,Samsung Galaxy A15,421,inactive,1,8878
+1500,Dolce Gusto Piccolo XS,712,active,3,8685
