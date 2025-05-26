@@ -42,14 +42,16 @@ meli-data-engineer-challenge/
 ├── respuestas_negocio.sql          # Consultas para resolver las consignas
 ├── mock_data/                      # CSVs generados con datos simulados
 ├── notebooks/
-│   └── pyspark_challenge_notebook.ipynb
+│   └── 01_Bases_MELI_Challenge.ipynb
+    └── 02_Respuestas_Negocio_MELI_Challenge_.ipynb
 └── diagramas/
     └── DER_MercadoLibre_Modelo.png
 ```
+---
 
 ## **Respuestas:**
 
----
+
 
 -  Diseñar un DER del modelo de datos que logre responder cada una de laspreguntas mencionadas anteriormente.
 
@@ -155,4 +157,35 @@ psql -U postgres -d meli_challenge -f respuestas_negocio.sql
 ---
 
 
----
+
+# **Python y APIs**
+
+## **Objetivos:**
+
+### Realizar un análisis sobre la oferta/vidriera de las opciones de productos que responden a distintas búsquedas en el sitio Mercadolibre.com.ar  utilizando el lenguaje Python y las bibliotecas que considere necesarias.
+
+ **A resolver**
+
+-  Barrer una lista de más de 150 ítems ids en el servicio público
+-  Por cada resultado, realizar el correspondiente GET por Item_Id al recurso público
+-  Escribir los resultados
+-  Elaborar el diseño y la documentación de la solución
+-  Análisis exploratorio
+      
+
+## **Respuesta:**
+
+En la notebook [03_APIS_MELI_Challenge.ipynb](https://github.com/Arnold-Acuna-Pestana/meli-data-engineer-challenge/blob/main/notebooks/03_APIS_MELI_Challenge.ipynb) se documenta un programa que consume datos de el site https://www.mercadolibre.com.ar/ haciendo uso de la api desde https://developers.mercadolibre.com.ar/, para ello el usuario debe ejecutar paso a paso la notebook.
+
+
+- El primer paso consiste en crear una aplicación en Mercadolibre para poder obtener el token de acceso. Una vez generado y utilizado el token, usuario tendrá acceso a explotar la información.
+- Se obtuvo unos 140 productos a través de varios recursos, primero usando el Predictor de categorías para obtener la categoría de productos buscados. Luego con las distintos id de las categorías obtenidas, se utilizo el recurso de Más Vendidos por Categoría para obtener el id de los productos.
+
+
+### **Idea para comparativo entre productos deseados**
+
+La información obtenida nos ayuda en la evaluación del Precio, Tiempo de Entrega, Envío Gratis, Puntuación, Cuotas, Descuentos y Tiempo de Garantía  antes de tomar cualquier decisión, tambien nos ayuda a verificar el modo de retiro. Por ejemplo, el producto puede estar disponible para retirar en un punto cercano antes que llegue a domicilio.
+
+
+**Conclusión**
+Después de revisar todas estas variables, se puede devolver una puntuación, a mayor valor quiere decir que cumple o posee con las características buscadas.
