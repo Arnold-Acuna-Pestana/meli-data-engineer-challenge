@@ -1,10 +1,33 @@
-# 🛒 Mercado Libre - Data Engineer Challenge
+#  Primera Parte - SQL
 
-Este repositorio contiene la solución al challenge técnico para la posición de **Data Engineer** en Mercado Libre. Se abordan los aspectos de modelado de datos, carga de información, consultas de negocio y automatización con cron.
+## **Objetivos:**
+
+### A partir de la siguiente necesidad, se requiere diseñar un DER que responda al modelo del negocio. Luego, se debe responder mediante SQL diferentes preguntas.  
+
+**Descripción de la necesidad**
+
+Teniendo en cuenta el modelo de ecommerce que manejamos, tenemos algunas entidades básicas que queremos representar: Customer, Order, Item y Category. 
+
+- **Customer:** Es la entidad donde se encuentran todos nuestros usuarios, ya sean Buyers o Sellers del Site. Los principales atributos son email, nombre, apellido, sexo, dirección, fecha de nacimiento, teléfono, entre otros. 
+- **Item:** Es la entidad donde se encuentran los productos publicados en nuestro marketplace. El volumen es muy grande debido a que se encuentran todos los productos que en algún momento fueron publicados. Mediante el estado del ítem o fecha de baja se puede detectar los ítems activos del marketplace.  
+- **Category**: Es la entidad donde se encuentra la descripción de cada categoría con su respectivo path. Cada ítem tiene asociado una categoría. 
+- **Order:** La order es la entidad que refleja las transacciones generadas dentro del site (cada compra es una order). En este caso no vamos a contar con un flujo de carrito de compras por lo tanto cada ítem que se venda será reflejado en una order independientemente de la cantidad que se haya comprado.
+
+**Flujo de Compras**
+- Un usuario ingresa al sitio de Mercado Libre para comprar dos dispositivos móviles iguales. 
+- Realiza la búsqueda navegando por la categorías Tecnología > Celulares y Teléfonos > Celulares y Smartphones, y finalmente encuentra el producto que necesita comprar. 
+- Procede con la compra del mismo seleccionado **dos unidades**, el cual genera una orden de compra.
+
+  **A resolver**
+
+- Listar los usuarios que cumplan años el día de hoy cuya cantidad de ventas realizadas en enero 2020 sea superior a 1500. 
+- Por cada mes del 2020, se solicita el top 5 de usuarios que más vendieron($) en la categoría Celulares. Se requiere el mes y año de análisis, nombre y apellido del vendedor, cantidad de ventas realizadas, cantidad de productos vendidos y el monto total transaccionado. 
 
 ---
 
-## 📁 Estructura del proyecto
+
+
+##  Estructura del proyecto
 
 ```
 meli-data-engineer-challenge/
@@ -24,9 +47,37 @@ meli-data-engineer-challenge/
     └── DER_MercadoLibre_Modelo.png
 ```
 
+## **Respuestas:**
+
 ---
 
-## ⚙️ Requisitos
+-  Diseñar un DER del modelo de datos que logre responder cada una de laspreguntas mencionadas anteriormente.
+
+
+
+![DER_MercadoLibre_Modelo](diagramas/DER_MercadoLibre_Modelo.png)
+
+
+
+- Generar el script DDL para la creación de cada una de las tablas representadas enel DER. Enviarlo con el nombre “create_tables.sql”.
+
+
+
+En [01_Bases_MELI_Challenge.ipynb](https://github.com/Arnold-Acuna-Pestana/meli-data-engineer-challenge/blob/main/notebooks/01_Bases_MELI_Challenge.ipynb) se crearon los datos de prueba para resolver las distintos desafios. Luego esos datos fueron cargados en las tablas generadas en [create_tables.sql](https://github.com/Arnold-Acuna-Pestana/meli-data-engineer-challenge/blob/main/create_tables.sql)
+
+
+
+
+- Generar el código SQL para responder cada una de las situaciones mencionadas anteriormente sobre el modelo diseñado. Nombre solicitado:“respuestas_negocio.sql”
+
+
+
+En [02_Respuestas_Negocio_MELI_Challenge_.ipynb](https://github.com/Arnold-Acuna-Pestana/meli-data-engineer-challenge/blob/main/notebooks/02_Respuestas_Negocio_MELI_Challenge_.ipynb) se muestra cómo resolver las consultas usando Spark SQL. Adicionalmente, las respuestas se encuentran en el script [respuestas_negocio.sql](https://github.com/Arnold-Acuna-Pestana/meli-data-engineer-challenge/blob/main/respuestas_negocio.sql). 
+
+---
+
+
+##  Requisitos para ejecutar el proyecto en local
 
 - Docker + Docker Compose
 - Python 3.9+
@@ -34,7 +85,7 @@ meli-data-engineer-challenge/
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 ### 1. Clonar el repositorio
 
@@ -95,22 +146,13 @@ psql -U postgres -d meli_challenge -f respuestas_negocio.sql
 
 ---
 
-## 🧠 Consultas incluidas
+##  Consultas incluidas
 
 - Clientes que cumplen años hoy y vendieron más de $1500 en enero 2020
 - Top 5 vendedores mensuales en categoría "Celulares"
-- Registro diario en `item_history` (automatizado con `pg_cron`)
+- Registro diario de los items en `item_history` con StoredProcedure y reprocesable (automatizado con `pg_cron` para el final del día)
 
 ---
 
-## 📊 Análisis en Spark (opcional)
-
-En `notebooks/pyspark_challenge_notebook.ipynb` se muestra cómo resolver las consultas usando Spark SQL.
-
-Podés ejecutarlo directamente en [Google Colab](https://colab.research.google.com/) cargando tus archivos CSV.
 
 ---
-
-## 🧾 Licencia
-
-Este proyecto fue desarrollado como parte de un ejercicio técnico. Podés usarlo como referencia educativa.
