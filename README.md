@@ -144,8 +144,13 @@ python cargar_csv_postgres.py
 
 ---
 
-### 6. Programar snapshot diario con pg_cron
-
+### 6. Copiar el archivo SQL al contenedor. Entrar al contenedor PostgreSQL y ejecutar script para programar snapshot diario con pg_cron
+```bash
+docker cp programar_snapshot_cron.sql postgres-ml-cron:/programar_snapshot_cron.sql
+```
+```bash
+docker exec -it postgres-ml-cron bash
+```
 ```bash
 psql -U postgres -d meli_challenge -f programar_snapshot_cron.sql
 ```
