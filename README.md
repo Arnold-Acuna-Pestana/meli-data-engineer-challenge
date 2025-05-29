@@ -92,14 +92,16 @@ En [02_Respuestas_Negocio_MELI_Challenge_.ipynb](https://github.com/Arnold-Acuna
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/meli-data-engineer-challenge.git
+git clone https://github.com/Arnold-Acuna-Pestana/meli-data-engineer-challenge.git
+```
+```bash
 cd meli-data-engineer-challenge
 ```
 
 ### 2. Configurar variables de entorno
 
 ```bash
-cp .env.example .env
+cp env.example .env
 ```
 
 ### 3. Levantar la base de datos y pgAdmin
@@ -115,7 +117,15 @@ pgAdmin estará disponible en [http://localhost:8080](http://localhost:8080)
 
 ---
 
-### 4. Crear las tablas
+### 4. Copiar el archivo SQL dentro del contenedor. Entrar al contenedor PostgreSQL y ejecutar script para crear las tablas
+
+```bash
+docker cp create_tables.sql postgres-ml-cron:/create_tables.sql
+```
+
+```bash
+docker exec -it postgres-ml-cron bash
+```
 
 ```bash
 psql -U postgres -d meli_challenge -f create_tables.sql
@@ -127,6 +137,8 @@ psql -U postgres -d meli_challenge -f create_tables.sql
 
 ```bash
 pip install -r requirements.txt
+```
+```bash
 python cargar_csv_postgres.py
 ```
 
@@ -140,10 +152,15 @@ psql -U postgres -d meli_challenge -f programar_snapshot_cron.sql
 
 ---
 
-### 7. Ejecutar consultas de negocio
-
+### 7. Copiar el archivo SQL al contenedor. Entrar al contenedor PostgreSQL y ejecutar script con las respuestas de negocio
 ```bash
-psql -U postgres -d meli_challenge -f respuestas_negocio.sql
+docker cp respuestas_negocio.sql postgres-ml-cron:/respuestas_negocio.sql
+```
+```bash
+docker exec -it postgres-ml-cron bash
+```
+```bash
+psql -U postgres -d meli_challenge -f /respuestas_negocio.sql
 ```
 
 ---
